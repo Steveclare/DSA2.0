@@ -1,0 +1,26 @@
+County,DistrictCode,DistrictName,City
+San Diego,37-67,San Diego Unified School District,San Diego
+San Diego,37-68,Poway Unified School District,Poway
+San Diego,37-73,Sweetwater Union High School District,Chula Vista
+San Diego,37-75,Grossmont Union High School District,El Cajon
+San Diego,37-76,Escondido Union High School District,Escondido
+San Diego,37-77,San Dieguito Union High School District,Encinitas
+San Diego,37-78,Oceanside Unified School District,Oceanside
+San Diego,37-79,Vista Unified School District,Vista
+San Diego,37-81,Carlsbad Unified School District,Carlsbad
+San Diego,37-82,Coronado Unified School District,Coronado
+San Diego,37-83,Fallbrook Union High School District,Fallbrook
+San Diego,37-84,Julian Union High School District,Julian
+Los Angeles,19-64,Los Angeles Unified School District,Los Angeles
+Los Angeles,19-65,Pasadena Unified School District,Pasadena
+Los Angeles,19-66,Long Beach Unified School District,Long Beach
+Los Angeles,19-67,Pomona Unified School District,Pomona
+Los Angeles,19-68,Montebello Unified School District,Montebello
+Orange County,30-66,Santa Ana Unified School District,Santa Ana
+Orange County,30-67,Garden Grove Unified School District,Garden Grove
+Orange County,30-68,Orange Unified School District,Orange
+San Francisco,38-68,San Francisco Unified School District,San Francisco
+Sacramento,34-67,Sacramento City Unified School District,Sacramento
+Sacramento,34-68,Elk Grove Unified School District,Elk Grove
+Alameda,01-61,Oakland Unified School District,Oakland
+Alameda,01-62,Berkeley Unified School District,Berkeley 

@@ -1,0 +1,1487 @@
+CountyCode,CountyName,DistrictCode,DistrictName
+1,Alameda,01,Alameda County
+1,Alameda,01-CALIFSCHOOL FOR THE BL,California Dept Of Ed School For The Blind
+1,Alameda,01-County of Alameda,County Of Alameda - General Services Administration
+1,Alameda,1-0,California School For The Deaf
+1,Alameda,1-1,Alameda Unified School District
+1,Alameda,1-11,Emery Unified School District
+1,Alameda,1-12,"Envision Education, Inc."
+1,Alameda,1-13,Hayward Unified School District
+1,Alameda,1-17,Fremont Unified School District
+1,Alameda,1-18,Livermore Valley Joint Unified School District
+1,Alameda,1-2,Albany City Unified School District
+1,Alameda,1-24,Mountain House Elementary School District
+1,Alameda,1-25,New Haven Unified School District
+1,Alameda,1-27,Newark Unified School District
+1,Alameda,1-29,Oakland Unified School District
+1,Alameda,1-3,Alameda County Office Of Education
+1,Alameda,1-31,Piedmont City Unified School District
+1,Alameda,1-32,Pleasanton Unified School District
+1,Alameda,1-35,San Leandro Unified School District
+1,Alameda,1-36,San Lorenzo Unified School District
+1,Alameda,1-39,Sunol Glen Unified School District
+1,Alameda,1-46,California School For The Blind
+1,Alameda,1-47,Dublin Unified School District
+1,Alameda,1-51,Oakland Unity Charter High School
+1,Alameda,1-6,Berkeley Unified School District
+1,Alameda,1-7,Castro Valley Unified School District
+1,Alameda,1-H1,Alameda Unified School District
+1,Alameda,1-H11,San Leandro Unified School District
+1,Alameda,1-H13,San Lorenzo Unified School District
+1,Alameda,1-H14,Newark Unified School District
+1,Alameda,1-H15,Castro Valley Unified School District
+1,Alameda,1-H16,Dublin Unified School District
+1,Alameda,1-H17,Fremont Unified School District
+1,Alameda,1-H2,Albany Unified School District
+1,Alameda,1-H25,New Haven Unified School District
+1,Alameda,1-H26,Pleasanton Unified School District
+1,Alameda,1-H4,Berkeley Unified School District
+1,Alameda,1-H5,Emery Unified School District
+1,Alameda,1-H6,Hayward Unified School District
+1,Alameda,1-H7,Livermore Valley Joint Unified School District
+1,Alameda,1-H8,Oakland Unified School District
+1,Alameda,1-H9,Piedmont City Unified School District
+1,Alameda,1-LPS,Leadership Public Schools
+10,Fresno,10,Fresno County Office Of Education
+10,Fresno,10-0,Department Of Education
+10,Fresno,10-10,Big Creek Elementary School District
+10,Fresno,10-101,Orange Center Elementary School District
+10,Fresno,10-105,Parlier Unified School District
+10,Fresno,10-106,Pacific Union Elementary School District
+10,Fresno,10-111,Pine Ridge Elementary School Dist.
+10,Fresno,10-116,Raisin City Elementary School District
+10,Fresno,10-119,Riverdale Jt. Unified School District
+10,Fresno,10-126,Sanger Unified School District
+10,Fresno,10-129,Selma Unified School District
+10,Fresno,10-145,Washington Colony Elementary School District
+10,Fresno,10-146,West Park Elementary School District
+10,Fresno,10-152,Fresno County Office Of Education
+10,Fresno,10-155,Sierra Unified School District
+10,Fresno,10-156,Golden Plains Unified School District
+10,Fresno,10-16,Burrel Union Elementary School District
+10,Fresno,10-21,Caruthers Unified School District
+10,Fresno,10-23,Central Unified School District
+10,Fresno,10-26,Clay Joint Elementary School District
+10,Fresno,10-27,Clovis Unified School District
+10,Fresno,10-28,Coalinga-Huron Unified School District
+10,Fresno,10-31,Washington Unified School District
+10,Fresno,10-4,Alvina Elementary School District
+10,Fresno,10-41,Firebaugh-Las Deltas Unified School District
+10,Fresno,10-45,Fowler Unified School District
+10,Fresno,10-48,Fresno Unified School District
+10,Fresno,10-49,West Fresno Elementary School District
+10,Fresno,10-5,American Union Elementary School District
+10,Fresno,10-70,Kerman Unified School District
+10,Fresno,10-71,Kingsburg Elementary Charter School District
+10,Fresno,10-72,Kings Canyon Unified School District
+10,Fresno,10-76,Laton Unified School District
+10,Fresno,10-80,Westside Elementary School District
+10,Fresno,10-89,Mendota Unified School District
+10,Fresno,10-92,Monroe Elementary School District
+10,Fresno,10-County of Fresno,County Of Fresno-Resources/parks Division
+10,Fresno,10-EECU,Educational Employees Credit Union
+10,Fresno,10-FCPL,Fresno County Public Library
+10,Fresno,10-H1,Caruthers Unified School District
+10,Fresno,10-H10,Kingsburg Jt. Union High School District
+10,Fresno,10-H11,Laton Unified School District
+10,Fresno,10-H12,Parlier Unified School District
+10,Fresno,10-H14,Riverdale Joint Unified School District
+10,Fresno,10-H15,Sanger Unified School District
+10,Fresno,10-H16,Selma Unified School District
+10,Fresno,10-H19,Washington Unified School District
+10,Fresno,10-H2,Central Unified School District
+10,Fresno,10-H22,Firebaugh-Las Deltas Unified School District
+10,Fresno,10-H24,Golden Plains Unified School District
+10,Fresno,10-H25,Sierra Unified School District
+10,Fresno,10-H3,Clovis Unified School District
+10,Fresno,10-H4,Coalinga-Huron Unified School District
+10,Fresno,10-H5,Mendota Unified School District
+10,Fresno,10-H6,Kings Canyon Unified School District
+10,Fresno,10-H7,Fowler Unified School District
+10,Fresno,10-H8,Fresno Unified School District
+10,Fresno,10-H9,Kerman Unified School District
+10,Fresno,10-KIPP,Kipp Bay Area Schools
+11,Glenn,11,Glenn County Office Of Education
+11,Glenn,11-18,Hamilton Union Elementary School District
+11,Glenn,11-21,Lake Elementary School District
+11,Glenn,11-29,Orland Jt. Unified School District
+11,Glenn,11-30,Plaza Elementary School District
+11,Glenn,11-31,Princeton Jt. Unified School District
+11,Glenn,11-35,Willows Unified School District
+11,Glenn,11-5,Capay Joint Union Elementary School District
+11,Glenn,11-H2,Hamilton Union High School District
+11,Glenn,11-H3,Orland Jt. Unified School District
+11,Glenn,11-H4,Princeton Jt. Unified School District
+11,Glenn,11-H6,Willows Unified School District
+12,Humboldt,12,Humbolt County Office Of Education
+12,Humboldt,12-10,Bridgeville Elementary School District
+12,Humboldt,12-108,Mckinleyville Union School District
+12,Humboldt,12-21,Cuddeback Union Elementary School District
+12,Humboldt,12-22,Cutten Elementary School District
+12,Humboldt,12-3,Arcata Elementary School District
+12,Humboldt,12-31,Eureka City Schools
+12,Humboldt,12-33,Ferndale Unified School District
+12,Humboldt,12-35,Fieldbrook Elementary School District
+12,Humboldt,12-39,Fortuna Elementary School District
+12,Humboldt,12-4,Big Lagoon Union Elementary School District
+12,Humboldt,12-40,Freshwater Elementary School District
+12,Humboldt,12-42,Garfield Elementary School District
+12,Humboldt,12-46,Green Point Elementary School District
+12,Humboldt,12-50,Humboldt County Office Of Education
+12,Humboldt,12-51,Hydesville Elementary School District
+12,Humboldt,12-53,Jacoby Creek Elementary School District
+12,Humboldt,12-56,Klamath-Trinity Joint Unified School District
+12,Humboldt,12-60,Loleta Union School District
+12,Humboldt,12-63,Mattole Unified School District
+12,Humboldt,12-7,Blue Lake Elementary School District
+12,Humboldt,12-73,Orick Elementary School District
+12,Humboldt,12-77,Pacific Union School District
+12,Humboldt,12-78,Peninsula Union School District
+12,Humboldt,12-82,Rio Dell Elementary School District
+12,Humboldt,12-83,Fortuna Union Elementary School District Formerly Rohnervile School Dostrict
+12,Humboldt,12-87,Scotia Union Elementary School District
+12,Humboldt,12-88,Southern Humboldt Joint Unified School District
+12,Humboldt,12-91,South Bay Union Elementary School District
+12,Humboldt,12-92,Trinidad Union Elementary School District
+12,Humboldt,12-County of Humboldt,County Of Humboldt - Department Of Public Works
+12,Humboldt,12-H1,Northern Humboldt Union High School District
+12,Humboldt,12-H10,Southern Humboldt Jt. Unified School District
+12,Humboldt,12-H2,Eureka City Schools
+12,Humboldt,12-H4,Fortuna Union High School District
+12,Humboldt,12-H6,Mattole Unified School District
+12,Humboldt,12-H7,Klamath-Trinity Joint Unified School District
+13,Imperial,13,Imperial County Office Of Education
+13,Imperial,13-13,El Centro Elementary School District
+13,Imperial,13-17,Heber Elementary School District
+13,Imperial,13-20,Imperial Unified School District
+13,Imperial,13-24,Magnolia Union Elementary School
+13,Imperial,13-25,Mccabe Union Elementary School District
+13,Imperial,13-29,Mulberry School District
+13,Imperial,13-34,Seeley Union Elementary School District
+13,Imperial,13-39,Westmorland Union Elementary School District
+13,Imperial,13-44,San Pasqual Valley Unified School District
+13,Imperial,13-45,Meadows Union Elementary School District
+13,Imperial,13-46,Imperial County Office Of Education
+13,Imperial,13-6,Brawley Elementary School District
+13,Imperial,13-7,Calexico Unified School District
+13,Imperial,13-8,Calipatria Unified School District
+13,Imperial,13-County of Imperial,County Of Imperial
+13,Imperial,13-H1,Brawley Union High School District
+13,Imperial,13-H2,Calexico Unified School District
+13,Imperial,13-H4,Central Union High School District
+13,Imperial,13-H5,Holtville Unified School District
+13,Imperial,13-H6,Imperial Unified School District
+14,Inyo,14,Inyo County Office Of Education
+14,Inyo,14-16,Round Valley Joint Elementary School District
+14,Inyo,14-2,Big Pine Unified School District
+14,Inyo,14-23,Owens Valley Unified School District
+14,Inyo,14-24,Inyo County Office Of Education
+14,Inyo,14-3,Bishop Union Elementary School District
+14,Inyo,14-6,Death Valley Unified School District
+14,Inyo,14-9,Lone Pine Unified School District
+14,Inyo,14-H1,Big Pine Unified School District
+14,Inyo,14-H2,Bishop Joint Union High School District
+14,Inyo,14-H3,Lone Pine Unified School District
+14,Inyo,14-H4,Owens Valley Unified School District
+15,Kern,15,Kern County Office Of Education
+15,Kern,15-12,Buttonwillow Union Elementary School District
+15,Kern,15-13,Caliente Elementary
+15,Kern,15-17,Delano Union Elementary School District
+15,Kern,15-18,Edison Elementary School District
+15,Kern,15-19,Elk Hills Elementary
+15,Kern,15-20,Fairfax Elementary School District
+15,Kern,15-22,Fruitvale Elementary School District
+15,Kern,15-26,Greenfield Union School District
+15,Kern,15-33,Kern County Superintendent Of Schools
+15,Kern,15-34,Kernville Union School District
+15,Kern,15-38,Linns Valley-Poso Flat Union Elementary School District
+15,Kern,15-39,Lost Hills Union Elementary School District
+15,Kern,15-4,Arvin Union Elementary School District
+15,Kern,15-40,Maple Elementary
+15,Kern,15-41,Mcfarland Unified School District
+15,Kern,15-42,Sierra Sands Unified School District
+15,Kern,15-43,Midway Elementary School District
+15,Kern,15-44,Mojave Unified School District
+15,Kern,15-45,Lamont Elementary School District
+15,Kern,15-48,Muroc Unified School District
+15,Kern,15-49,Norris School District
+15,Kern,15-52,Mckittrick Elementary School District
+15,Kern,15-59,Semitropic Elementary School District
+15,Kern,15-6,Bakersfield City School District
+15,Kern,15-65,Richland Elementary School District
+15,Kern,15-66,Rio-Bravo Greeley Union Elementary School District
+15,Kern,15-68,Rosedale Union Elementary School District
+15,Kern,15-7,Beardsley Elementary School District
+15,Kern,15-70,General Shafter Elementary School District
+15,Kern,15-71,Southern Kern Unified School District
+15,Kern,15-71/H10,Southern Kern Unified School District
+15,Kern,15-72,South Fork Union School District
+15,Kern,15-73,Standard Elementary School District
+15,Kern,15-76,Tehachapi Unif School District
+15,Kern,15-81,Vineland Elementary School District
+15,Kern,15-83,Wasco Union Elementary School District
+15,Kern,15-87,Taft City Elementary School District
+15,Kern,15-88,Maricopa Unified School District
+15,Kern,15-89,Lakeside Union Elementary School District
+15,Kern,15-9,Blake Elementary
+15,Kern,15-91,Di Giorgio Elementary
+15,Kern,15-93,El Tejon Unified School District
+15,Kern,15-94,Pond Union Elementary School District
+15,Kern,15-95,Panama Buena Vista Union School District
+15,Kern,15-City of Frazier Park,County Of Kern General Services Department
+15,Kern,15-County of Kern,County Of Kern - California Superior Court
+15,Kern,15-H10,Southern Kern Unified School District
+15,Kern,15-H11,Mojave Unified School District
+15,Kern,15-H13,Sierra Sands Unified School District
+15,Kern,15-H13/42,Sierra Sands Unified School District
+15,Kern,15-H14,Mcfarland Unified School District
+15,Kern,15-H15,El Tejon Unified School District
+15,Kern,15-H2,Delano Joint Union High School District
+15,Kern,15-H3,Kern High School District
+15,Kern,15-H4,Maricopa Unified School District
+15,Kern,15-H5,Taft Union High School District
+15,Kern,15-H6,Tehachapi Unified School District
+15,Kern,15-H7,Wasco Union High School District
+15,Kern,15-H8,Muroc Joint Unified School District
+15,Kern,15-Kern County,Kern County Public Works Department
+16,Kings,16,Kings County Office Of Education
+16,Kings,16-1,Armona Union Elementary School District
+16,Kings,16-14,Hanford Elementary School District
+16,Kings,16-2,Corcoran Joint Unified School District
+16,Kings,16-20,Kings River-Hardwick Union Elementary School District
+16,Kings,16-23,Lakeside Union Elementary School District
+16,Kings,16-24,Lemoore Union Elementary School District
+16,Kings,16-25,Pioneer Union Elementary School District
+16,Kings,16-33,Reef-Sunset Unified School District
+16,Kings,16-43,Central Union Elementary School District
+16,Kings,16-44,Kit Carson Union Elementary School District
+16,Kings,16-45,Kings County Office Of Education
+16,Kings,16-46,Island Union Elementary School
+16,Kings,16-6,Delta View Joint Union Elementary School District
+16,Kings,16-County of Kings,County Of Kings
+16,Kings,16-H1,Corcoran Joint Unified School District
+16,Kings,16-H2,Hanford Joint Union High School District
+16,Kings,16-H5,Lemoore Union High School District
+16,Kings,16-H7,Reef-Sunset Unified School District
+17,Lake,17,Lake County Office Of Education
+17,Lake,17-11,Lucerne Elementary School District
+17,Lake,17-12,Middletown Unified School District
+17,Lake,17-18,Upper Lake Unified School District
+17,Lake,17-5,Konocti Unified School District
+17,Lake,17-6,Kelseyville Unified School District
+17,Lake,17-7,Lakeport Unified School District
+17,Lake,17-H2,Lakeport Unified School District
+17,Lake,17-H3,Kelseyville Unified School District
+17,Lake,17-H5,Middletown Unified School District
+17,Lake,17-H6,Upper Lake Unified School District
+17,Lake,17-H7,Konocti Unified School District
+17,Lake,17-Lake County,Lake County - Department Of Public Works
+18,Lassen,18,Lassen County Office Of Education
+18,Lassen,18-1,Lassen County - Department Of Public Works
+18,Lassen,18-13,Janesville Union Elementary School District
+18,Lassen,18-2,Big Valley Joint Unified School District
+18,Lassen,18-26,Richmond Elementary School District
+18,Lassen,18-28,Shaffer Union School District
+18,Lassen,18-3,Fort Sage Unified School District
+18,Lassen,18-31,Susanville School District
+18,Lassen,18-33,Westwood Unified School District
+18,Lassen,18-34,Johnstonville Elementary School District
+18,Lassen,18-H1,Big Valley Joint Unified School District
+18,Lassen,18-H3,Lassen Union High School District
+18,Lassen,18-H4,Westwood Unified School District
+19,Los Angeles,19,Los Angeles County Office Of Eudation
+19,Los Angeles,19-1,Abc Unified School District
+19,Los Angeles,19-10,Bassett Unified School District
+19,Los Angeles,19-100,South Pasadena Unified School District
+19,Los Angeles,19-101,Temple City Unified School District
+19,Los Angeles,19-102,South Whittier Elementary School District
+19,Los Angeles,19-104,Sulphur Springs Union Elementary School District
+19,Los Angeles,19-106,Valle Lindo Elementary School District
+19,Los Angeles,19-109,Walnut Valley Unified School District
+19,Los Angeles,19-11,Bonita Unfied School District
+19,Los Angeles,19-110,West Covina Unified School District
+19,Los Angeles,19-112,Whittier City School District
+19,Los Angeles,19-114,Wilsona School District
+19,Los Angeles,19-115,Wiseburn Unified School District
+19,Los Angeles,19-117,Westside Union Elementary School District
+19,Los Angeles,19-119,Los Angeles County Superintendent Of Schools
+19,Los Angeles,19-120,Torrance Unified School District
+19,Los Angeles,19-121,Magnolia Education & Research Foundation
+19,Los Angeles,19-124,Los Angeles County Office Of Education
+19,Los Angeles,19-13,Bellflower Unified School District
+19,Los Angeles,19-14,Beverly Hills Unified School District
+19,Los Angeles,19-16,Burbank Unified School District
+19,Los Angeles,19-19,Castaic Union School District
+19,Los Angeles,19-20,Charter Oak Unified School District
+19,Los Angeles,19-21,Claremont Unified School District
+19,Los Angeles,19-22,Paramount Unified School District
+19,Los Angeles,19-23,Compton Unified School District
+19,Los Angeles,19-25,Covina Valley Unified School District
+19,Los Angeles,19-26,Culver City Unified School District
+19,Los Angeles,19-29,Downey Unified School District
+19,Los Angeles,19-3,Alhambra Unified School District
+19,Los Angeles,19-30,Duarte Unified School District
+19,Los Angeles,19-31,East Whittier City School District
+19,Los Angeles,19-33,El Monte City School District
+19,Los Angeles,19-34,El Segundo Unified School District
+19,Los Angeles,19-38,Hacienda-La Puente Unified School District
+19,Los Angeles,19-40,Garvey Elementary School District
+19,Los Angeles,19-41,Glendale Unified School District
+19,Los Angeles,19-42,Glendora Unified School District
+19,Los Angeles,19-44,Hawthorne Elementary School District
+19,Los Angeles,19-45,Hermosa Beach City Elementary School District
+19,Los Angeles,19-46,Hughes-Elizabeth Lakes Union Elementary School District
+19,Los Angeles,19-48,Inglewood Unified School District
+19,Los Angeles,19-49,Lennox Elementary School District
+19,Los Angeles,19-5,Arcadia Unified School District
+19,Los Angeles,19-50,Keppel Union Elementary School District
+19,Los Angeles,19-51,La Canada Unified School District
+19,Los Angeles,19-53,Lancaster Elementary School District
+19,Los Angeles,19-54,Las Virgenes Unified School District
+19,Los Angeles,19-57,Lawndale Elementary School District
+19,Los Angeles,19-60,Little Lake City Elementary School District
+19,Los Angeles,19-62,Long Beach Unified School District
+19,Los Angeles,19-63,Los Angeles Unified School District
+19,Los Angeles,19-63/H16,Los Angeles Unified School District
+19,Los Angeles,19-64,Los Nietos Elementary School District
+19,Los Angeles,19-65,Lowell Joint Elementary School District
+19,Los Angeles,19-66,Lynwood Unified School District
+19,Los Angeles,19-67,Manhattan Beach Unified School District
+19,Los Angeles,19-70,Monrovia Unified School District
+19,Los Angeles,19-71,Montebello Unified School District
+19,Los Angeles,19-72,Mountain View School District
+19,Los Angeles,19-75,Newhall Elementary School District
+19,Los Angeles,19-76,Norwalk-La Mirada Unified School District
+19,Los Angeles,19-78,Palmdale Elementary School District
+19,Los Angeles,19-79,Palos Verdes Peninsula Unified School District
+19,Los Angeles,19-79/H41,Palos Verdes Unified School District
+19,Los Angeles,19-8,Azusa Unified School District
+19,Los Angeles,19-80,Pasadena Unified School District
+19,Los Angeles,19-80/H19,Pasadena Unified School District
+19,Los Angeles,19-82,Palisades Charter High School
+19,Los Angeles,19-83,Pomona Unified School District
+19,Los Angeles,19-85,Gorman Elementary School District
+19,Los Angeles,19-86,El Rancho Unified School District
+19,Los Angeles,19-86/H48,El Rancho Unified School District
+19,Los Angeles,19-88,Redondo Beach Unified School District
+19,Los Angeles,19-9,Baldwin Park Unified School District
+19,Los Angeles,19-9/H39,Baldwin Park Unified School District
+19,Los Angeles,19-90,East Side Union School District
+19,Los Angeles,19-91,Rosemead Elementary School District
+19,Los Angeles,19-92,Rowland Unified School District
+19,Los Angeles,19-94,San Gabriel Elementary School District
+19,Los Angeles,19-95,San Marino Unified School District
+19,Los Angeles,19-96,Santa Monica-Malibu Unified School District
+19,Los Angeles,19-97,Saugus Union School District
+19,Los Angeles,19-99,Acton-Agua Dulce Unified School District
+19,Los Angeles,19-BSS,Bright Star Schools
+19,Los Angeles,19-CHIME,Chime Institute Charter School
+19,Los Angeles,19-CHLAKEVIE TERRACE,California Public Charter School
+19,Los Angeles,19-County of Los Angeles,County Of Los Angeles
+19,Los Angeles,19-GDPS,Green Dot Public School
+19,Los Angeles,19-GHCS,Granada Hills Charter Schools
+19,Los Angeles,19-H1,Alhambra Unified School District
+19,Los Angeles,19-H10,El Monte Union High School District
+19,Los Angeles,19-H11,El Segundo Unified School District
+19,Los Angeles,19-H13,Glendale Unified School District
+19,Los Angeles,19-H14,Centinela Valley Union High School District
+19,Los Angeles,19-H15,Long Beach Unified School District
+19,Los Angeles,19-H16,Los Angeles Unified School District
+19,Los Angeles,19-H17,Duarte Unified School District
+19,Los Angeles,19-H18,Montebello Unified School District
+19,Los Angeles,19-H19,Pasadena Unified School District
+19,Los Angeles,19-H2,Antelope Valley Union High School District
+19,Los Angeles,19-H20,Pomona Unified School District
+19,Los Angeles,19-H24,Santa Monica-Malibu Unified School District
+19,Los Angeles,19-H25,South Pasadena Unified School District
+19,Los Angeles,19-H26,Whittier Union High School District
+19,Los Angeles,19-H27,Beverly Hills Unified School District
+19,Los Angeles,19-H28,William S Hart Union High School District
+19,Los Angeles,19-H29,Torrance Unified School District
+19,Los Angeles,19-H3,Bonita Unified School District
+19,Los Angeles,19-H30,Culver City Unified School District
+19,Los Angeles,19-H31,Lynwood Unified School District
+19,Los Angeles,19-H32,Arcadia Unified School District
+19,Los Angeles,19-H34,San Marino Unified School District
+19,Los Angeles,19-H35,Paramount Unified School District
+19,Los Angeles,19-H36,Inglewood Unified School District
+19,Los Angeles,19-H37,Temple City Unified School District
+19,Los Angeles,19-H38,Bellflower Unified School District
+19,Los Angeles,19-H39,Baldwin Park Unified School District
+19,Los Angeles,19-H4,Burbank Unified School District
+19,Los Angeles,19-H40,Charter Oak Unified School District
+19,Los Angeles,19-H41,Palos Verdes Peninsula Unified School District
+19,Los Angeles,19-H42,Monrovia Unified School District
+19,Los Angeles,19-H43,Azusa Unified School District
+19,Los Angeles,19-H44,Glendora Unified School District
+19,Los Angeles,19-H45,La Canada Unified High School District
+19,Los Angeles,19-H46,Bassett Unified School District
+19,Los Angeles,19-H47,West Covina Unified School District
+19,Los Angeles,19-H48,El Rancho Unified School District
+19,Los Angeles,19-H49,Las Virgenes Unified School District
+19,Los Angeles,19-H50,Abc Unified School District
+19,Los Angeles,19-H51,Norwalk-La Mirada Unified School District
+19,Los Angeles,19-H52,Walnut Valley Unified School District
+19,Los Angeles,19-H53,Hacienda-La Puente Unified School District
+19,Los Angeles,19-H54,Rowland Unified School District
+19,Los Angeles,19-H55,Acton-Agua Dulce Unified School District
+19,Los Angeles,19-H56,Redondo Beach Unified School District
+19,Los Angeles,19-H58,San Gabriel Unified High School Dist.
+19,Los Angeles,19-H6,Claremont Unified School District
+19,Los Angeles,19-H60,Alliance For College Ready Public Schools
+19,Los Angeles,19-H7,Compton Unified School District
+19,Los Angeles,19-H70,Wiseburn Unified School District
+19,Los Angeles,19-H8,Covina Valley Unified School District
+19,Los Angeles,19-H9,Downey Unified School District
+19,Los Angeles,19-ICEF,Inner City Education Foundation Public Schools
+19,Los Angeles,19-JJCMS,James Jordan Charter Middle School
+19,Los Angeles,19-LACSC,Los Angeles County Superior Court
+19,Los Angeles,19-LECS,Lifeline Education Charter School
+19,Los Angeles,19-NEW HEIGHTS CHARTER,New Heights Charter School
+19,Los Angeles,19-Odyssey Charter School,Odyssey Charter School
+19,Los Angeles,19-PCS,Pacoima Charter School
+19,Los Angeles,19-Pacific Charter,Pacific Charter School Development
+19,Los Angeles,19-TEACH,Teach Charter/public Schools
+19,Los Angeles,19-TFSCS,Today's Fresh Start Charter School
+19,Los Angeles,19-YPICS,Ypi Charter Schools
+2,Alpine,2,Alpine County Office Of Education
+2,Alpine,2-4,Alpine County Unified School District
+20,Madera,20,Madera County Office Of Education
+20,Madera,20-1,Alview-Dairyland Union School District
+20,Madera,20-10,Chowchilla Elementary School District
+20,Madera,20-11,Coarsegold Union School District
+20,Madera,20-30,Madera Unified School District
+20,Madera,20-31,Madera County Office Of Education
+20,Madera,20-37,Raymond-Knowles Union Elementarty School District
+20,Madera,20-49,Chawanakee Unified School District
+20,Madera,20-50,Golden Valley Unified School District
+20,Madera,20-51,Yosemite Unified School District
+20,Madera,20-6,Bass Lake Joint Union Elementary School District
+20,Madera,20-H1,Chowchilla Union High School
+20,Madera,20-H2,Chawanakee Unified School District
+20,Madera,20-H3,Madera Unified School District
+20,Madera,20-H6,Yosemite Union High School District
+20,Madera,20-H7,Golden Valley Unified School District
+20,Madera,20-H8,Minarets Joint Union High School District
+20,Madera,20-H9,Yosemite Unified School District
+21,Marin,21,Marin County Office Of Education
+21,Marin,21-11,Miller Creek Elementary School District
+21,Marin,21-18,Kentfield Elementary School District
+21,Marin,21-19,Laguna Joint Elementary School District
+21,Marin,21-20,Lagunitas Unified School District
+21,Marin,21-21,Larkspur-Corte Madera School Dist
+21,Marin,21-25,Mill Valley Elementary School District
+21,Marin,21-26,Nicasio Elementary School District
+21,Marin,21-27,Novato Unified School District
+21,Marin,21-33,Ross Elementary School District
+21,Marin,21-34,Reed Union School District
+21,Marin,21-39,San Rafael Elementary School District
+21,Marin,21-40,Sausalito Marin City School District
+21,Marin,21-47,Shoreline Unified School District
+21,Marin,21-48,Ross Valley Elementary School Disrtict
+21,Marin,21-7,Bolinas-Stinson Union School District
+21,Marin,21-H1,San Rafael High School District
+21,Marin,21-H2,Tamalpais Union High School District
+21,Marin,21-H4,Novato Unified School District
+21,Marin,21-H5,Shoreline Unified School District
+22,Mariposa,22,Mariposa County Office Of Education
+22,Mariposa,22-16,Mariposa County Unified School District
+22,Mariposa,22-H1,Mariposa County Unified School District
+23,Mendocino,23,Mendocino Office Of Education
+23,Mendocino,23-1,Mendocino County Office Of Education
+23,Mendocino,23-18,Fort Bragg Unified School District
+23,Mendocino,23-2,Anderson Valley Unified School District
+23,Mendocino,23-30,Potter Valley Community Unified School District
+23,Mendocino,23-42,Mendocino Unified School District
+23,Mendocino,23-65,Round Valley Unified School District
+23,Mendocino,23-76,Ukiah Unified School District
+23,Mendocino,23-79,Willits Unified School District
+23,Mendocino,23-83,Arena Union Elementary School District
+23,Mendocino,23-86,Laytonville Unified School District
+23,Mendocino,23-87,Leggett Valley Unified School District
+23,Mendocino,23-County of Mendocino,County Of Mendocino - Department Of Public Works
+23,Mendocino,23-Dept of Transportation,Mendocino County Department Of Transportation
+23,Mendocino,23-H1,Anderson Valley Unified School District
+23,Mendocino,23-H10,Laytonville Unified School District
+23,Mendocino,23-H2,Fort Bragg Unified School District
+23,Mendocino,23-H4,Mendocino Unified School District
+23,Mendocino,23-H5,Point Arena Joint Union High School District
+23,Mendocino,23-H6,Round Valley Unified School District
+23,Mendocino,23-H7,Ukiah Unified School District
+23,Mendocino,23-H8,Willits Unified School District
+24,Merced,24,Merced County Office Of Education
+24,Merced,24-14,Delhi Unified School District
+24,Merced,24-16,Dos Palos Oro-Loma Joint Unified School District
+24,Merced,24-2,Merced River School District
+24,Merced,24-20,El Nido Elementary School District
+24,Merced,24-26,Gustine Unified School District
+24,Merced,24-27,Hilmar Unified School District
+24,Merced,24-31,Le Grand Union Elementary School District
+24,Merced,24-32,Livingston Union School District
+24,Merced,24-34,Los Banos Unified School District
+24,Merced,24-35,Merced City Elementary School District
+24,Merced,24-37,Merced County Office Of Education
+24,Merced,24-39,Atwater Elementary School District
+24,Merced,24-41,Mcswain Union Elementary School District
+24,Merced,24-44,Plainsburg Elementary School
+24,Merced,24-45,Planada Elementary School District
+24,Merced,24-53,Snelling-Merced Falls Elementary School District
+24,Merced,24-6,Ballico-Cressey Elementary School District
+24,Merced,24-61,Winton Elementary School District
+24,Merced,24-62,Weaver Union School District
+24,Merced,24-H1,Dos Palos Oro-Loma Joint Unified School District
+24,Merced,24-H2,Gustine Unified School District
+24,Merced,24-H3,Hilmar Unified School District
+24,Merced,24-H4,Le Grand Union High School District
+24,Merced,24-H5,Merced Union High School District
+24,Merced,24-H6,Los Banos Unified School District
+24,Merced,24-H7,Delhi High School District
+25,Modoc,25,Modoc County Office Of Education
+25,Modoc,25-24,Modoc Joint Unified School District
+25,Modoc,25-36,Surprise Valley Joint Unified School District
+25,Modoc,25-45,Tulelake Basin Jt. Unified School District
+25,Modoc,25-H2,Modoc Joint Unified School District
+25,Modoc,25-H3,Surprise Valley Joint Unified School District
+25,Modoc,25-H4,Tulelake Basin Joint Unified School District
+26,Mono,26-11,Mono County Office Of Education
+26,Mono,26-3,Eastern Sierra Unified School District
+26,Mono,26-9,Mammoth Unified School District
+26,Mono,26-AOC,Administrative Office Of The Courts - Mono County
+26,Mono,26-County of Mono,"Mono County, Department Of Public Works"
+26,Mono,26-H1,Eastern Sierra Unified School District
+26,Mono,26-H2,Mammoth Unified School District
+27,Monterey,27,Monterey County Office Of Education
+27,Monterey,27-1,Alisal Union School District
+27,Monterey,27-13,Chualar Union Elementary School District
+27,Monterey,27-18,Gonzales Unified School District
+27,Monterey,27-19,Graves Elementary School District
+27,Monterey,27-20,Greenfield Union School District
+27,Monterey,27-26,King City Union School District
+27,Monterey,27-27,Lagunita Elementary School District
+27,Monterey,27-32,Mission Union Elementary School District
+27,Monterey,27-34,Monterey Peninsula Unified School District
+27,Monterey,27-35,North Monterey County Unified School District
+27,Monterey,27-37,Pacific Grove Unified School District
+27,Monterey,27-40,Monterey Bay Charter School
+27,Monterey,27-41,Pacific Elementary School District
+27,Monterey,27-47,Salinas City Elementary School District
+27,Monterey,27-48,San Antonio Union Elementary School District
+27,Monterey,27-49,San Ardo Union Elementary School District
+27,Monterey,27-50,San Lucas Union Elementary School District
+27,Monterey,27-51,Santa Rita Union Elementary School District
+27,Monterey,27-52,Soledad Unified School District
+27,Monterey,27-54,Spreckels Union Elementary School District
+27,Monterey,27-62,Washington Union Elementary School District
+27,Monterey,27-64,Kings City Union Elementary School District
+27,Monterey,27-7,Bradley Union School District
+27,Monterey,27-9,Carmel Unified School District
+27,Monterey,27-County of Monterey,"County Of Monterey, Redevelopment Agency"
+27,Monterey,27-H1,Gonzales Unified School District
+27,Monterey,27-H2,South Monterey County Joint Union High School District
+27,Monterey,27-H3,Monterey Peninsula Unified School District
+27,Monterey,27-H4,Pacific Grove Unified School District
+27,Monterey,27-H5,Salinas Union High School District
+27,Monterey,27-H6,Carmel Unified School District
+27,Monterey,27-H7,North Monterey County Unified School District
+27,Monterey,27-H8,Soledad Unified School District
+27,Monterey,27-Monterey County,Monterey County Administration Office Of The Court
+27,Monterey,27-MontereyCountyFair,Monterey County Fair
+28,Napa,28,Napa County Office Of Education
+28,Napa,28-15,Mountain Elementary School District
+28,Napa,28-19,Napa County Office Of Education
+28,Napa,28-22,Napa Valley Unified School District
+28,Napa,28-27,Pope Valley Union Elementary School District
+28,Napa,28-35,St. Helena Unified School District
+28,Napa,28-5,Calistoga Joint Unified School District
+28,Napa,28-H1,Calistoga Joint Unified School District
+28,Napa,28-H2,Napa Valley Unified School District
+28,Napa,28-H3,St. Helena Unified School District
+29,Nevada,29-1,Nevada County Office Of Education
+29,Nevada,29-11,Grass Valley Elementary School District
+29,Nevada,29-18,Nevada City School District
+29,Nevada,29-22,Pleasant Ridge Union School District
+29,Nevada,29-23,Pleasant Valley Elementary School District
+29,Nevada,29-25,Ready Springs Union School District
+29,Nevada,29-28,Union Hill Elementary School District
+29,Nevada,29-29,Twin Ridges Elementary School District
+29,Nevada,29-30,Penn Valley Union Elementary School District
+29,Nevada,29-6,Chicago Park Elementary School District
+29,Nevada,29-7,Clear Creek Elementary School District
+29,Nevada,29-H3,Nevada Joint Union High School District
+3,Amador,03-GSA,"County Of Amador, General Services Administration"
+3,Amador,3-1,Amador County Unified School District
+3,Amador,3-H1,Amador County Unified School District
+3,Amador,3-H2,Amador County Office Of Education
+30,Orange,30,Orange County Department Of Education
+30,Orange,30-11,Fountain Valley School District
+30,Orange,30-12,Fullerton School District
+30,Orange,30-13,Garden Grove Unified School District
+30,Orange,30-15,Huntington Beach City School District
+30,Orange,30-17,Laguna Beach Unified School District
+30,Orange,30-18,La Habra City Elementary School District
+30,Orange,30-19,Los Alamitos Unified School District
+30,Orange,30-2,Anaheim Elementary School District
+30,Orange,30-22,Magnolia School District
+30,Orange,30-24,Ocean View Elementary School District
+30,Orange,30-25,Magnolia Education & Research Foundation
+30,Orange,30-27,Orange Unified School District
+30,Orange,30-3,Brea-Olinda Unified School District
+30,Orange,30-30,Newport-Mesa Unified School District
+30,Orange,30-31,Placentia-Yorba Linda Unified School District
+30,Orange,30-35,Santa Ana Unified School District
+30,Orange,30-36,Savanna Elementary School District
+30,Orange,30-4,Buena Park Elementary School District
+30,Orange,30-43,Westminster School District
+30,Orange,30-47,Saddleback Valley Unified School District
+30,Orange,30-48,Irvine Unified School District
+30,Orange,30-5,Centralia Elementary School District
+30,Orange,30-51,Tustin Unified School District
+30,Orange,30-7,Cypress Elementary School District
+30,Orange,30-9,Capistrano Unified School District
+30,Orange,30-C1,North Orange County Community College District
+30,Orange,30-C5,South Orange County Community College District
+30,Orange,30-H1,Anaheim Union High School District
+30,Orange,30-H10,Santa Ana Unified School District
+30,Orange,30-H12,Placentia-Yorba Linda Unified School District
+30,Orange,30-H13,Newport-Mesa Unified School District
+30,Orange,30-H14,Saddleback Valley Unified School District
+30,Orange,30-H15,Irvine Unified School District
+30,Orange,30-H18,Los Alamitos Unified School District
+30,Orange,30-H2,Brea Olinda Unified School District
+30,Orange,30-H3,Fullerton Joint Union High School District
+30,Orange,30-H5,Huntington Beach Union High School District
+30,Orange,30-H6,Laguna Beach Unified School District
+30,Orange,30-H8,Orange Unified School District
+30,Orange,30-North Orange Co.,North Orange County - Ymca
+30,Orange,30-OCFEC,Orange County Fair & Events Center
+30,Orange,30-OCHS,Orange County Head Start
+30,Orange,30-OCTA,Orange County Transportation Authority
+30,Orange,30-ROP,R.o.p. - North Orange County
+31,Placer,31,Placer County Office Of Education
+31,Placer,31-1,Ackerman Charter School District
+31,Placer,31-12,Colfax Elementary School District
+31,Placer,31-15,Dry Creek Joint Elementary School District
+31,Placer,31-19,Eureka Union School District
+31,Placer,31-21,Foresthill Union Elementary School District
+31,Placer,31-28,Loomis Union Elementary School District
+31,Placer,31-3,Alta Dutch Flat Union Elementary School District
+31,Placer,31-31,Newcastle Elementary School District
+31,Placer,31-34,Ophir Elementary School District
+31,Placer,31-35,Penryn Elementary School District
+31,Placer,31-37,Rocklin Unified School District
+31,Placer,31-38,Roseville City School District
+31,Placer,31-42,Western Placer Unified School District
+31,Placer,31-46,Placer Hills Union Elementary School District
+31,Placer,31-47,Tahoe Truckee Unified School District
+31,Placer,31-48,Placer County Office Of Education
+31,Placer,31-6,Auburn Union Elementary School District
+31,Placer,31-BCSD,Ackerman Charter School District
+31,Placer,31-H2,Placer Union High School District
+31,Placer,31-H3,Roseville Jt. Union High School District
+31,Placer,31-H4,Tahoe Truckee Unified School District
+31,Placer,31-H5,Western Placer Unified School District
+31,Placer,31-H6,Rocklin Unified School District
+31,Placer,31-Placer County,Placer County Public Works
+32,Plumas,32,Plumas County Office Of Education
+32,Plumas,32-16,Plumas Unified School District
+32,Plumas,32-H1,Plumas Unified School District
+32,Plumas,32-PCDPW,"Plumas County, Department Of Public Works"
+33,Riverside,33,Riverside County Superintendent Of Schools
+33,Riverside,33-0,Office Of Public School Construction
+33,Riverside,33-13,Desert Sands Unified School District
+33,Riverside,33-15,Lake Elsinore Unified School District
+33,Riverside,33-19,Jurupa Unified School District
+33,Riverside,33-21,Hemet Unified School District
+33,Riverside,33-29,Menifee Union Elementary School District
+33,Riverside,33-3,Alvord Unified School District
+33,Riverside,33-30,Moreno Valley Unified School District
+33,Riverside,33-32,Murrieta Valley Unified School District
+33,Riverside,33-35,Palo Verde Unified School District
+33,Riverside,33-36,Perris Elementary School District
+33,Riverside,33-38,Riverside Unified School District
+33,Riverside,33-39,Romoland Elementary School District
+33,Riverside,33-41,San Jacinto Unified School District
+33,Riverside,33-42,Palm Springs Unified School District
+33,Riverside,33-44,Temecula Valley Unified School District
+33,Riverside,33-48,Val Verde Unified School District
+33,Riverside,33-5,Banning Unified School District
+33,Riverside,33-53,Desert Center Unified School District
+33,Riverside,33-54,Nuview Union School District
+33,Riverside,33-56,Riverside County Office Of Education
+33,Riverside,33-6,Beaumont Unified School District
+33,Riverside,33-8,Coachella Valley Unified School District
+33,Riverside,33-9,Corona-Norco Unified School District
+33,Riverside,33-H1,Banning Unified School District
+33,Riverside,33-H10,San Jacinto Unified School District
+33,Riverside,33-H11,Palm Springs Unified School District
+33,Riverside,33-H12,Alvord Unified School District
+33,Riverside,33-H13,Moreno Valley Unified School District
+33,Riverside,33-H14,Jurupa Unified School District
+33,Riverside,33-H16,Desert Sands Unified School District
+33,Riverside,33-H17,Temecula Valley Unified School District
+33,Riverside,33-H18,Murrieta Valley Unified School District
+33,Riverside,33-H2,Beaumont Unified School District
+33,Riverside,33-H3,Coachella Valley Unified School District
+33,Riverside,33-H4,Corona-Norco Unified School District
+33,Riverside,33-H5,Lake Elsinore Unified School District
+33,Riverside,33-H6,Hemet Unified School District
+33,Riverside,33-H7,Palo Verde Unified School District
+33,Riverside,33-H8,Perris Union High School District
+33,Riverside,33-H9,Riverside Unified School District
+33,Riverside,33-RCTD,Riverside County Transportation Department
+33,Riverside,33-RESD,Resd - California Dept. Of Education
+33,Riverside,33-Temeculaprep,Temecula Preparatory School
+34,Sacramento,34,Sacramento County Office Of Education
+34,Sacramento,34-10,Center Joint Unified School District
+34,Sacramento,34-12,Del Paso Heights Elementary School District
+34,Sacramento,34-17,Elk Grove Unified School District
+34,Sacramento,34-19,Folsom Cordova Unified School District
+34,Sacramento,34-25,Galt Joint Union Elementary School District
+34,Sacramento,34-35,Elverta Joint Elementary School District
+34,Sacramento,34-39,Natomas Unified School District
+34,Sacramento,34-4,Arcohe Union Elementary School District
+34,Sacramento,34-41,Twin Rivers Unified School District
+34,Sacramento,34-48,Rio Linda Union Elementary School District
+34,Sacramento,34-49,River Delta Unified School District
+34,Sacramento,34-5,Sacramento County Office Of Education
+34,Sacramento,34-52,Robla Elementary School District
+34,Sacramento,34-53,Sacramento City Unified School District
+34,Sacramento,34-69,San Juan Unified School District
+34,Sacramento,34-70,Twin Rivers Unified School District
+34,Sacramento,34-GCCS,Gateway Community Charter Schools
+34,Sacramento,34-H10,Natomas Unified School District
+34,Sacramento,34-H11,Twin Rivers Unified School District
+34,Sacramento,34-H2,Elk Grove Unified School District
+34,Sacramento,34-H3,Folsom Cordova Unified School District
+34,Sacramento,34-H4,Galt Joint Union High School District
+34,Sacramento,34-H5,Twin Rivers Unified School District
+34,Sacramento,34-H6,River Delta Unified School District
+34,Sacramento,34-H7,Sacramento City Unified School District
+34,Sacramento,34-H8,San Juan Unified School District
+34,Sacramento,34-H9,Center Joint Unified School District
+34,Sacramento,34-SAC,City Of Scaramento School-Age Child Care Program
+34,Sacramento,34-St. Hope,St. Hope Public Schools
+35,San Benito,35,San Benito County Office Of Education
+35,San Benito,35-18,Hollister Elementary School District
+35,San Benito,35-25,North County Joint Union School District
+35,San Benito,35-32,Aromas-San Juan Unified School District
+35,San Benito,35-36,Southside Elementary School District
+35,San Benito,35-37,Tres Pinos Union School District
+35,San Benito,35-H1,San Benito High School District
+35,San Benito,35-H2,Aromas-San Juan Unified School District
+36,San Bernardino,36,San Bernardino County Office Of Education
+36,San Bernardino,36-0,San Bernardino County Superintendent Of Schools
+36,San Bernardino,36-1,Adelanto Elementary School District
+36,San Bernardino,36-10,Central Elementary School District
+36,San Bernardino,36-11,Chino Valley Unified School District
+36,San Bernardino,36-14,Colton Joint Unified School District
+36,San Bernardino,36-16,Cucamonga Elementary School District
+36,San Bernardino,36-19,Etiwanda School District
+36,San Bernardino,36-2,Alta Loma Elementary School District
+36,San Bernardino,36-23,Fontana Unified School District
+36,San Bernardino,36-27,Helendale School District
+36,San Bernardino,36-28,Hesperia Unified School District
+36,San Bernardino,36-38,Lucerne Valley School District
+36,San Bernardino,36-4,Apple Valley Unified School District
+36,San Bernardino,36-42,Morongo Unified School District
+36,San Bernardino,36-43,Mountain View Elementary School District
+36,San Bernardino,36-46,Ontario-Montclair School District
+36,San Bernardino,36-47,Oro Grande Elementary School District
+36,San Bernardino,36-52,Rim Of The World Unified School District
+36,San Bernardino,36-53,Redlands Unified School District
+36,San Bernardino,36-54,Rialto Unified School District
+36,San Bernardino,36-55,San Bernardino City Unified School District
+36,San Bernardino,36-57,San Bernardino County Office Of Education
+36,San Bernardino,36-6,Barstow Unified School District
+36,San Bernardino,36-60,Trona Joint Unified School District
+36,San Bernardino,36-62,Upland Unified School District
+36,San Bernardino,36-63,Victor Elementary School District
+36,San Bernardino,36-67,Yucaipa-Calimesa Joint Unified School District
+36,San Bernardino,36-7,Bear Valley Unified School District
+36,San Bernardino,36-71,Baker Valley Unified School District
+36,San Bernardino,36-72,Silver Valley Unified School District
+36,San Bernardino,36-73,Snowline Joint Unified School District
+36,San Bernardino,36-9,Mt. Baldy Jt. Elementary School District
+36,San Bernardino,36-EXEL,Exelsior Education Center
+36,San Bernardino,36-Excelsior,Excelsior Education Center
+36,San Bernardino,36-H1,Barstow Unified School District
+36,San Bernardino,36-H10,Fontana Unified School District
+36,San Bernardino,36-H13,Rim Of The World Unified School District
+36,San Bernardino,36-H15,Rialto Unified School District
+36,San Bernardino,36-H19,Snowline Joint Unified School District
+36,San Bernardino,36-H2,Chaffey Joint Union High School District
+36,San Bernardino,36-H20,Apple Valley Unified School District
+36,San Bernardino,36-H21,Hesperia Unified School District
+36,San Bernardino,36-H24,Lucerne Valley Unified School District
+36,San Bernardino,36-H3,Chino Valley Unified School District
+36,San Bernardino,36-H4,Colton Joint Unified School District
+36,San Bernardino,36-H5,Needles Unified School District
+36,San Bernardino,36-H6,Redlands Unified School District
+36,San Bernardino,36-H7,San Bernardino City Unified School District
+36,San Bernardino,36-H8,Victor Valley Union High School District
+36,San Bernardino,36-H9,Morongo Unified School District
+36,San Bernardino,36-San Bernardino,County Of San Bernardino
+37,San Diego,37,San Diego County Office Of Education
+37,San Diego,37-11,Cardiff Elementary School District
+37,San Diego,37-12,Carlsbad Unified School District
+37,San Diego,37-13,Chula Vista Elementary School District
+37,San Diego,37-16,Coronado Unified School District
+37,San Diego,37-17,Dehesa School District
+37,San Diego,37-18,Del Mar Union School District
+37,San Diego,37-20,Mountain Empire Unified School District
+37,San Diego,37-23,Encinitas Union Elementary School District
+37,San Diego,37-24,Escondido Union School District
+37,San Diego,37-25,Fallbrook Union Elementary School District
+37,San Diego,37-30,Jamul Dulzura Union Elementary School District
+37,San Diego,37-32,Julian Union Elementary School District
+37,San Diego,37-33,Lakeside Union Elementary School District
+37,San Diego,37-34,La Mesa-Spring Valley School District
+37,San Diego,37-36,Lemon Grove Elementary School District
+37,San Diego,37-43,National School District
+37,San Diego,37-46,Oceanside City Unified School District
+37,San Diego,37-50,Pauma Elementary School District
+37,San Diego,37-52,Poway Unified School District
+37,San Diego,37-54,Ramona Unified School District
+37,San Diego,37-55,Rancho Santa Fe Elementary School District
+37,San Diego,37-58,San Diego Unified School District
+37,San Diego,37-62,San Marcos Unified School District
+37,San Diego,37-64,San Pasqual Union School District
+37,San Diego,37-66,Santee Elementary School District
+37,San Diego,37-67,San Ysidro Elementary School District
+37,San Diego,37-69,South Bay Union School District
+37,San Diego,37-7,Bonsall Unified School District
+37,San Diego,37-70,Spencer Valley Elementary School District
+37,San Diego,37-74,Vallecitos School District
+37,San Diego,37-75,Valley Center - Pauma Unified School District
+37,San Diego,37-76,Vista Unified School District
+37,San Diego,37-77,Warner Unified School District
+37,San Diego,37-79,Alpine Union School District
+37,San Diego,37-8,Borrego Springs Unified School District
+37,San Diego,37-81,Solana Beach Elementary School District
+37,San Diego,37-9,Cajon Valley Union Elementary School District
+37,San Diego,37-County of San Diego,County Of San Diego - Dept. Of Public Works
+37,San Diego,37-County of San Diego-1,County Of San Diego - Department Of Public Works
+37,San Diego,37-H10,Sweetwater Union High School District
+37,San Diego,37-H11,San Dieguito Union High School District
+37,San Diego,37-H12,Vista Unified School District
+37,San Diego,37-H14,Poway Unified School District
+37,San Diego,37-H16,Carlsbad Unified School District
+37,San Diego,37-H18,San Marcos Unified School District
+37,San Diego,37-H2,Escondido Union High School District
+37,San Diego,37-H3,Fallbrook Union High School District
+37,San Diego,37-H4,Grossmont Union High School District
+37,San Diego,37-H5,Julian Union High School District
+37,San Diego,37-H7,Oceanside City Unified School District
+37,San Diego,37-H8,Ramona Unified School District
+37,San Diego,37-H9,San Diego Unified School District
+37,San Diego,37-LFCS,"Literacy First Charter Schools, Inc."
+38,San Francisco,38,San Francisco County Office Of Education
+38,San Francisco,38-1,San Francisco Unified School District
+38,San Francisco,38-H1,San Francisco Unified School District
+38,San Francisco,38-UCHASTINGS,University California Hastings School Of Law
+39,San Joaquin,39,San Joaquin County Office Of Education
+39,San Joaquin,39-23,Escalon Unified School District
+39,San Joaquin,39-36,Holt Union School District
+39,San Joaquin,39-39,Jefferson School District
+39,San Joaquin,39-43,Lammersville Joint Unified School District
+39,San Joaquin,39-46,Lincoln Unified School District
+39,San Joaquin,39-47,Linden Unified School District
+39,San Joaquin,39-5,Banta Unified School District
+39,San Joaquin,39-50,Lodi Unified School District
+39,San Joaquin,39-53,Manteca Unified School District
+39,San Joaquin,39-58,New Hope Elementary School District
+39,San Joaquin,39-59,New Jerusalem Elementary School
+39,San Joaquin,39-60,Oak View Union Elementary School District
+39,San Joaquin,39-64,Ripon Unified School District
+39,San Joaquin,39-69,Stockton Unified School District
+39,San Joaquin,39-73,Tracy Unified School District
+39,San Joaquin,39-89,San Joaquin County Office Of Education
+39,San Joaquin,39-H1,Escalon Unified School District
+39,San Joaquin,39-H10,Lincoln Unified School District
+39,San Joaquin,39-H11,San Joaquin County Office Of Education
+39,San Joaquin,39-H12,Lammersville Unified School District
+39,San Joaquin,39-H2,Banta Unified School District
+39,San Joaquin,39-H3,Linden Unified School District
+39,San Joaquin,39-H4,Lodi Unified School District
+39,San Joaquin,39-H5,Manteca Unified School District
+39,San Joaquin,39-H6,Ripon Unified School District
+39,San Joaquin,39-H7,Stockton Unified School District
+39,San Joaquin,39-H8,Tracy Unified School District
+39,San Joaquin,39-SC,San Joaquin County Office Of Courts
+4,Butte,04,Butte County Office Of Education
+4,Butte,04-Butte County,Butte County Office Of Public Works
+4,Butte,04-ForestRanch Charter,Forest Ranch Charter School
+4,Butte,04-Nord Country School,Nord Country School
+4,Butte,4-12,Chico Unified School District
+4,Butte,4-16,Golden Feather Union School District
+4,Butte,4-19,Durham Unified School District
+4,Butte,4-2,Bangor Union Elementary School District
+4,Butte,4-24,Gridley Unified School District
+4,Butte,4-30,Manzanita Elementary School District
+4,Butte,4-38,Oroville City Elementary School District
+4,Butte,4-39,Palermo Union School District.
+4,Butte,4-48,Paradise Unified School District
+4,Butte,4-49,Thermalito Union School District
+4,Butte,4-57,Pioneer Union Elementary School District
+4,Butte,4-7,Biggs Unified School District
+4,Butte,4-CCDS,Chico Country Day School
+4,Butte,4-H1,Biggs Unified School District
+4,Butte,4-H2,Chico Unified School District
+4,Butte,4-H3,Durham Unified School District
+4,Butte,4-H4,Gridley Unified School District
+4,Butte,4-H5,Oroville Union High School District
+4,Butte,4-H6,Paradise Unified School District
+40,San Luis Obispo,40,San Luis Obispo County Office Of Education
+40,San Luis Obispo,40-11,Coast Unified School District
+40,San Luis Obispo,40-13,Cayucos Elementary School District
+40,San Luis Obispo,40-39,Lucia Mar Unified School District
+40,San Luis Obispo,40-4,Atascadero Unified School District
+40,San Luis Obispo,40-54,Paso Robles Joint Unified School District
+40,San Luis Obispo,40-58,Pleasant Valley Joint Union School District
+40,San Luis Obispo,40-62,San Luis Coastal Unified School District
+40,San Luis Obispo,40-64,San Miguel Joint Union Elementary School District
+40,San Luis Obispo,40-69,Shandon Unified School District
+40,San Luis Obispo,40-76,Templeton Unified School District
+40,San Luis Obispo,40-80,San Luis Obispo County Office Of Education
+40,San Luis Obispo,40-C1,San Luis Obispo County Community College District
+40,San Luis Obispo,40-Co. of San Luis Obispo,"County Of San Luis Obispo, Dept. Of Public Works"
+40,San Luis Obispo,40-H2,Coast Unified School District
+40,San Luis Obispo,40-H3,Atascadero Unified School District
+40,San Luis Obispo,40-H4,Paso Robles Joint Unified School District
+40,San Luis Obispo,40-H5,San Luis Coastal Unified School District
+40,San Luis Obispo,40-H6,Templeton Unified School District
+40,San Luis Obispo,40-H8,Shandon Unified School District
+40,San Luis Obispo,40-H9,Lucia Mar Unified School District
+41,San Mateo,41,San Mateo County Office Of Education
+41,San Mateo,41-0,San Mateo County Office Of Education
+41,San Mateo,41-11,Menlo Park City Elementary School District
+41,San Mateo,41-12,Millbrae Elementary School District
+41,San Mateo,41-19,Portola Valley Elementary School District
+41,San Mateo,41-2,Belmont-Redwood Shores Elementary School District
+41,San Mateo,41-21,Ravenswood City Elementary School District
+41,San Mateo,41-22,Redwood City Elementary School District
+41,San Mateo,41-24,San Bruno Park Elementary School District
+41,San Mateo,41-25,San Carlos Elementary School District
+41,San Mateo,41-26,San Mateo-Foster City School District
+41,San Mateo,41-28,South San Francisco Unified School District
+41,San Mateo,41-3,Burlingame Elementary School District
+41,San Mateo,41-30,Bayshore Elementary School District
+41,San Mateo,41-32,Brisbane Elementary School District
+41,San Mateo,41-34,Pacifica School District
+41,San Mateo,41-35,La Honda-Pescadero Unified School District
+41,San Mateo,41-37,Cabrillo Unified School District
+41,San Mateo,41-4,Woodside Elementary School District
+41,San Mateo,41-7,Hillsborough City School District
+41,San Mateo,41-8,Jefferson Elementary School District
+41,San Mateo,41-9,Las Lomitas Elementary School District
+41,San Mateo,41-Aspire Public School,Aspire Public Schools
+41,San Mateo,41-C1,San Mateo County Community College District
+41,San Mateo,41-H2,Jefferson Union High School District
+41,San Mateo,41-H3,La Honda-Pescadero Unified School District
+41,San Mateo,41-H4,San Mateo Union High School District
+41,San Mateo,41-H5,Sequoia Union High School District
+41,San Mateo,41-H6,South San Francisco Unified School District
+41,San Mateo,41-H7,Cabrillo Unified School District
+41,San Mateo,41-SPS,Summit Public Schools
+42,Santa Barbara,42,Santa Barbara County Office Of Education
+42,Santa Barbara,42-11,Cold Springs Elementary School District
+42,Santa Barbara,42-12,College Elementary School District
+42,Santa Barbara,42-13,Cuyama Joint Unified School District
+42,Santa Barbara,42-16,Goleta Union Elementary School District
+42,Santa Barbara,42-17,Guadalupe Union Elementary School District
+42,Santa Barbara,42-19,Hope Elementary School District
+42,Santa Barbara,42-2,Ballard Elementary School District
+42,Santa Barbara,42-22,Lompoc Unified School District
+42,Santa Barbara,42-23,Los Alamos Elementary School District
+42,Santa Barbara,42-24,Los Olivos Elementary School District
+42,Santa Barbara,42-25,Vista Del Mar School District
+42,Santa Barbara,42-28,Montecito Union Elementary School District
+42,Santa Barbara,42-30,Orcutt Union School District
+42,Santa Barbara,42-36,Santa Barbara Unified School District
+42,Santa Barbara,42-40,Solvang Elementary School District
+42,Santa Barbara,42-47,Santa Barbara County Office Of Education
+42,Santa Barbara,42-48,Santa Maria-Bonita School District
+42,Santa Barbara,42-5,Blochman Union Elementary School District
+42,Santa Barbara,42-7,Buellton Union Elementary School District
+42,Santa Barbara,42-9,Carpinteria Unified School District
+42,Santa Barbara,42-H1,Carpinteria Unified School District
+42,Santa Barbara,42-H2,Lompoc Unified School District
+42,Santa Barbara,42-H3,Santa Barbara Unified School District
+42,Santa Barbara,42-H4,Santa Maria Joint Union High School District
+42,Santa Barbara,42-H5,Santa Ynez Valley Union High School District
+43,Santa Clara,43,Santa Clara County Office Of Education
+43,Santa Clara,43-11,Cambrian School District
+43,Santa Clara,43-12,Campbell Union School District
+43,Santa Clara,43-13,Cupertino Union School District
+43,Santa Clara,43-15,Evergreen Elementary School District
+43,Santa Clara,43-16,Franklin-Mckinley Elementary School District
+43,Santa Clara,43-17,Gilroy Unified School District
+43,Santa Clara,43-25,Lakeside Joint School District
+43,Santa Clara,43-29,Los Altos Elementary School District
+43,Santa Clara,43-30,Los Gatos Union Elementary School District
+43,Santa Clara,43-34,Milpitas Unified School District
+43,Santa Clara,43-36,Moreland School District
+43,Santa Clara,43-38,Morgan Hill Unified School District
+43,Santa Clara,43-39,Mount Pleasant Elementary School District
+43,Santa Clara,43-4,Alum Rock Union Elementary School District
+43,Santa Clara,43-40,Mountain View Elementary School District
+43,Santa Clara,43-41,Oak Grove Elementary School District
+43,Santa Clara,43-42,Orchard School District
+43,Santa Clara,43-43,Palo Alto Unified School District
+43,Santa Clara,43-48,San Jose Unified School District
+43,Santa Clara,43-51,Santa Clara Unified School District
+43,Santa Clara,43-52,Saratoga Union School District
+43,Santa Clara,43-54,Sunnyvale School District
+43,Santa Clara,43-56,Union Elementary School District
+43,Santa Clara,43-58,Whisman Elementary School District
+43,Santa Clara,43-61,Loma Prieta Joint Union Elementary School District
+43,Santa Clara,43-62,Santa Clara County Office Of Education
+43,Santa Clara,43-65,Santa Clara County Office Of Education
+43,Santa Clara,43-66,Mountain View Whisman School District
+43,Santa Clara,43-67,Metropolitan Educational District
+43,Santa Clara,43-7,Berryessa Union Elementary School District
+43,Santa Clara,43-8,Luther Burbank School District
+43,Santa Clara,43-ACS,Ace Charter School
+43,Santa Clara,43-H1,Campbell Union High School District
+43,Santa Clara,43-H10,East Side Union High School District
+43,Santa Clara,43-H11,Morgan Hill Unified School District
+43,Santa Clara,43-H12,Milpitas Unified School District
+43,Santa Clara,43-H2,Fremont Union High School District
+43,Santa Clara,43-H3,Gilroy Unified School District
+43,Santa Clara,43-H5,Los Gatos-Saratoga Union High School District
+43,Santa Clara,43-H6,Mountain View-Los Altos Union High School District
+43,Santa Clara,43-H7,Palo Alto Unified School District
+43,Santa Clara,43-H8,San Jose Unified High School District
+43,Santa Clara,43-H9,Santa Clara Unified School District
+43,Santa Clara,43-RSED,Rocketship Education
+44,Santa Cruz,44,Santa Cruz County Office Of Education
+44,Santa Cruz,44-0,Santa Cruz County Office Of Education
+44,Santa Cruz,44-22,Happy Valley Elementary School District
+44,Santa Cruz,44-32,Live Oak Elementary Unified School District
+44,Santa Cruz,44-33,Mountain Elementary School District
+44,Santa Cruz,44-36,Pacific Elementary School District
+44,Santa Cruz,44-37,Pajaro Valley Unified School District
+44,Santa Cruz,44-42,Santa Cruz City Elementary School District
+44,Santa Cruz,44-43,Scotts Valley Unified School District
+44,Santa Cruz,44-45,Soquel Union Elementary School District
+44,Santa Cruz,44-54,Bonny Doon Union Elementary School District
+44,Santa Cruz,44-55,San Lorenzo Valley Unified School District
+44,Santa Cruz,44-H2,Santa Cruz City High School District
+44,Santa Cruz,44-H4,San Lorenzo Valley Unified School District
+44,Santa Cruz,44-H5,Pajaro Valley Unified School District
+44,Santa Cruz,44-H6,Scotts Valley Unified School District
+45,Shasta,45,Shasta County Office Of Education
+45,Shasta,45-10,Black Butte Union Elementary School District
+45,Shasta,45-100,Gateway Unified School District
+45,Shasta,45-16,French Gulch Whiskeytown School District
+45,Shasta,45-18,Columbia Elementary School District
+45,Shasta,45-2,Cascade Union Elementary School District
+45,Shasta,45-24,Enterprise Elementary School District
+45,Shasta,45-26,Fall River Joint Unified School District
+45,Shasta,45-31,Castle Rock Union Elementary School District
+45,Shasta,45-34,Grant Elementary School District
+45,Shasta,45-35,Happy Valley Union Elementary School District
+45,Shasta,45-38,"Igo, Ono, Platina Union Elementary School District"
+45,Shasta,45-39,Indian Springs Elementary School District
+45,Shasta,45-43,Junction Elementary School District
+45,Shasta,45-56,Millville Elementary School District
+45,Shasta,45-60,Mountain Union Elementary School District
+45,Shasta,45-63,North Cow Creek Elementary School
+45,Shasta,45-65,Oak Run Elementary School District
+45,Shasta,45-66,Shasta County Office Of Education
+45,Shasta,45-69,Pacheco Union Elementary School District
+45,Shasta,45-7,Bella Vista Elementary School District
+45,Shasta,45-77,Redding Elementary School District
+45,Shasta,45-81,Shasta Union Elementary School
+45,Shasta,45-93,Whitmore Union Elementary School District
+45,Shasta,45-97,Cottonwood Union Elementary School District
+45,Shasta,45-H1,Anderson Union High School District
+45,Shasta,45-H3,Fall River Joint Unified School District
+45,Shasta,45-H4,Shasta Union High School District
+45,Shasta,45-H6,Gateway Unified School District
+45,Shasta,45-SC,Shasta County
+45,Shasta,45-SCDPW,Shasta County Dept. Of Public Works
+46,Sierra,46-10,Sierra County Office Of Education
+46,Sierra,46-12,Sierra Plumas Joint Unified School District
+46,Sierra,46-H2,Sierra Plumas Joint Unified School District
+47,Siskiyou,47-1,Big Springs Union Elementary School District
+47,Siskiyou,47-10,Dunsmuir Elementary School District
+47,Siskiyou,47-14,Etna Union Elementary School District
+47,Siskiyou,47-19,Fort Jones Union Elementary School District
+47,Siskiyou,47-2,Bogus Elementary School District
+47,Siskiyou,47-20,Gazelle Union Elementary School District
+47,Siskiyou,47-24,Gernada Elementary School District
+47,Siskiyou,47-26,Happy Camp Union Elementary School Dsitrict
+47,Siskiyou,47-31,Hornbrook Elementary School
+47,Siskiyou,47-35,Junction Elementary School District
+47,Siskiyou,47-36,Klamath River Union Elementary School District
+47,Siskiyou,47-45,Montague Elementary School District
+47,Siskiyou,47-48,Mt Shasta Union School District
+47,Siskiyou,47-49,Mccloud Union Elementary School District
+47,Siskiyou,47-50,Little Shasta Elementary School District
+47,Siskiyou,47-55,Quartz Valley Elementary School District
+47,Siskiyou,47-6,Delphic Elementary School District
+47,Siskiyou,47-60,Sawyers Bar Elementary School District
+47,Siskiyou,47-62,Seiad Elementary School District
+47,Siskiyou,47-65,Siskiyou County Office Of Education
+47,Siskiyou,47-71,Weed Union Elementary School District
+47,Siskiyou,47-72,Willow Creek Elementary School
+47,Siskiyou,47-73,Scott Valley Unified School District
+47,Siskiyou,47-74,Yreka Union Elementary School District
+47,Siskiyou,47-75,Butteville Union Elementary School
+47,Siskiyou,47-76,Butte Valley Unified School District
+47,Siskiyou,47-H1,Dunsmuir Jt. Union High School District
+47,Siskiyou,47-H2,Etna Union High School District
+47,Siskiyou,47-H3,Siskiyou Union High School District
+47,Siskiyou,47-H6,Yreka Union High School District
+47,Siskiyou,47-H7,Butte Valley Unified School District
+47,Siskiyou,47-SCGS,"Siskiyou County, Department Of General Services"
+48,Solano,48,Solano County Office Of Education
+48,Solano,48-13,Dixon Unified School District
+48,Solano,48-16,Fairfield - Suisun Unified School District
+48,Solano,48-2,Benicia Unified School District
+48,Solano,48-36,Solano County Office Of Education
+48,Solano,48-40,Vacaville Unified School District
+48,Solano,48-42,Vallejo City Unified School District
+48,Solano,48-6,Travis Unified School District
+48,Solano,48-C1,Solano County Community College District
+48,Solano,48-County of Solano,"County Of Solano, Department Of Public Works"
+48,Solano,48-H10,Fairfield-Suisun Unified School District
+48,Solano,48-H2,Benicia Unified School District
+48,Solano,48-H4,Dixon Unified School District
+48,Solano,48-H6,Vacaville Unified School District
+48,Solano,48-H7,Vallejo City Unified School District
+48,Solano,48-H9,Travis Unified School District
+49,Sonoma,49,Sonoma County Office Of Education
+49,Sonoma,49-101,Rincon Valley Union Elementary School District
+49,Sonoma,49-103,Roseland School District
+49,Sonoma,49-106,Santa Rosa City Elementary School District
+49,Sonoma,49-108,Sebastopol Union Elementary School District
+49,Sonoma,49-110,Sonoma Valley Unified School District
+49,Sonoma,49-112,Sonoma County Office Of Education
+49,Sonoma,49-120,Twin Hills Union Elementary School District
+49,Sonoma,49-122,Two Rock Union Elementary School District
+49,Sonoma,49-125,West Side Union Elementary School District
+49,Sonoma,49-129,Waugh Elementary School District
+49,Sonoma,49-13,Bennett Valley Union Elementary School District
+49,Sonoma,49-132,Wilmar Union Elementary School District
+49,Sonoma,49-133,Windsor Unified School District
+49,Sonoma,49-134,Wright Elementary School District
+49,Sonoma,49-135,Bellevue Union Elementary School District
+49,Sonoma,49-136,Alexander Valley Union Elementary School District
+49,Sonoma,49-137,Fort Ross Elementary School District
+49,Sonoma,49-14,Cinnabar Elementary School District
+49,Sonoma,49-15,Cloverdale Unified School District
+49,Sonoma,49-17,Cotati-Rohnert Park Unified School District
+49,Sonoma,49-25,Dunham Elementary School District
+49,Sonoma,49-32,Forestville Union Elementary School District
+49,Sonoma,49-37,Geyserville Unified School District
+49,Sonoma,49-39,Gravenstein Union Elementary School District
+49,Sonoma,49-44,Guerneville Elementary School District
+49,Sonoma,49-47,Harmony Union Elementary School District
+49,Sonoma,49-48,Healdsburg Unified School District
+49,Sonoma,49-51,Horicon School District
+49,Sonoma,49-65,Liberty School District
+49,Sonoma,49-69,Kenwood Elementary School District
+49,Sonoma,49-73,Mark West Union Elementary School District
+49,Sonoma,49-77,Monte Rio Union Elementary School District
+49,Sonoma,49-78,Montgomery School District
+49,Sonoma,49-83,Oak Grove Union Elementary School District
+49,Sonoma,49-88,Old Adobe Union School District
+49,Sonoma,49-91,Petaluma City Elementary School District
+49,Sonoma,49-92,Piner-Olivet Union Elementary School District
+49,Sonoma,49-99,Kashia Elementary School District
+49,Sonoma,49-C1,Sonoma County Junior College District
+49,Sonoma,49-H1,West Sonoma County Union High School District
+49,Sonoma,49-H11,Cotati-Rohnert Park Unified School District
+49,Sonoma,49-H12,Windsor Unified School District
+49,Sonoma,49-H14,Roseland School District
+49,Sonoma,49-H3,Cloverdale Unified School District
+49,Sonoma,49-H5,Healdsburg Unified School District
+49,Sonoma,49-H6,Petaluma Joint Union High School District
+49,Sonoma,49-H7,Santa Rosa City High School District
+49,Sonoma,49-H8,Sonoma Valley Unified School District
+49,Sonoma,49-ManzanitaMCS,Manzanita Montessori Charter School
+49,Sonoma,49-SCTA,Sonoma County Transit Agency
+49,Sonoma,49/H7,City Of Santa Rosa High School District
+5,Calaveras,5-1,Calaveras County Office Of Education
+5,Calaveras,5-29,Vallecito Union School District
+5,Calaveras,5-6,Calaveras Unified School District
+5,Calaveras,5-7,Mark Twain Union Elementary School District
+5,Calaveras,5-H1,Bret Harte Union High School District
+5,Calaveras,5-H2,Calaveras Unified School District
+50,Stanislaus,50,Stanislaus County Office Of Education
+50,Stanislaus,50-12,Gratton Elementary School District
+50,Stanislaus,50-14,Hart Ransom Union Elementary School District
+50,Stanislaus,50-16,Hughson Unified School District
+50,Stanislaus,50-21,Keyes Union Elementary School District
+50,Stanislaus,50-25,La Grange Elementary School District
+50,Stanislaus,50-29,Modesto City Elementary School District
+50,Stanislaus,50-3,Chatom Union Elementary School District
+50,Stanislaus,50-32,Newman-Crows Landing Unified School District
+50,Stanislaus,50-33,Oakdale Joint Unified School District
+50,Stanislaus,50-34,Paradise Elementary School District
+50,Stanislaus,50-35,Patterson Joint Unified School District
+50,Stanislaus,50-4,Ceres Unified School District
+50,Stanislaus,50-40,Riverbank Unified School District
+50,Stanislaus,50-41,Roberts Ferry Union Elementary School District
+50,Stanislaus,50-42,Stanislaus County Office Of Education
+50,Stanislaus,50-46,Salida Union School District
+50,Stanislaus,50-47,Shiloh Elementary School District
+50,Stanislaus,50-48,Stanislaus Union Elementary School District
+50,Stanislaus,50-51,Turlock Unified School District
+50,Stanislaus,50-51H8,Turlock Unified School District
+50,Stanislaus,50-53,Valley Home Joint Elementary School District
+50,Stanislaus,50-55,Waterford Unified School District
+50,Stanislaus,50-56,Hickman Community Charter School District
+50,Stanislaus,50-57,Knights Ferry Elementary School District
+50,Stanislaus,50-58,Great Valley Charter School
+50,Stanislaus,50-59,Sylvan Union Elementary School District
+50,Stanislaus,50-6,Denair Unified School District
+50,Stanislaus,50-9,Empire Union School District
+50,Stanislaus,50-H1,Ceres Unified School District
+50,Stanislaus,50-H10,Waterford Unified School District
+50,Stanislaus,50-H11,Riverbank Unified School District
+50,Stanislaus,50-H2,Denair Unified School District
+50,Stanislaus,50-H3,Hughson Unified School District
+50,Stanislaus,50-H4,Modesto City High School District
+50,Stanislaus,50-H5,Oakdale Joint Unified High School District
+50,Stanislaus,50-H7,Patterson Jt. Unified School District
+50,Stanislaus,50-H8,Turlock Unified School District
+50,Stanislaus,50-H9,Newman Crows Landing Unified School District
+51,Sutter,51-11,Live Oak Unified School District
+51,Sutter,51-12,Marcum-Illinois Union School District
+51,Sutter,51-13,Meridian Elementary School District
+51,Sutter,51-16,Nuestro Elementary School District
+51,Sutter,51-17,Pleasant Grove Joint Union Elementary School District
+51,Sutter,51-2,Brittan Elementary School District
+51,Sutter,51-28,Yuba City Unified School District
+51,Sutter,51-29,Sutter County Office Of Education
+51,Sutter,51-3,Browns Elementary School District
+51,Sutter,51-30,Winship-Robbins Elementary School District
+51,Sutter,51-6,Franklin Elementary School District
+51,Sutter,51-H1,Live Oak Unified High School District
+51,Sutter,51-H2,Sutter Union High School District
+51,Sutter,51-H3,Yuba City Unified School District
+51,Sutter,51-H4,East Nicolaus Jt. Union High School District
+52,Tehama,52,Tehama County Office Of Education
+52,Tehama,52-1,Antelope Elementary School District
+52,Tehama,52-11,Evergreen Union Elementary School District
+52,Tehama,52-14,Flournoy Union Elementary School District
+52,Tehama,52-17,Gerber Union Elementary School District
+52,Tehama,52-29,Los Molinos Unified School District
+52,Tehama,52-41,Plum Valley Elementary School District
+52,Tehama,52-44,Red Bluff Union Elementary School District
+52,Tehama,52-45,Reeds Creek Elementary School District
+52,Tehama,52-46,Richfield Elementary School District
+52,Tehama,52-47,Tehama County Office Of Education
+52,Tehama,52-49,Kirkwood Elementary School District
+52,Tehama,52-51,Lassen View Union Elementary School District
+52,Tehama,52-6,Corning Union Elementary School District
+52,Tehama,52-COT,County Of Tehama
+52,Tehama,52-H1,Corning Union High School District
+52,Tehama,52-H2,Los Molinos Unified School District
+52,Tehama,52-H3,Red Bluff Joint Union High School District
+53,Trinity,53,Trinity County Office Of Education
+53,Trinity,53-1,Burnt Ranch Elementary School District
+53,Trinity,53-10,Coffee Creek Elementary School District
+53,Trinity,53-11,Junction City Elementary School District
+53,Trinity,53-20,Trinity Center Elementary School District
+53,Trinity,53-21,Weaverville Elementary School District
+53,Trinity,53-25,Southern Trinity Joint Unified School District
+53,Trinity,53-3,Cox Bar Elementary School District
+53,Trinity,53-30,Lewiston Elementary School District
+53,Trinity,53-5,Douglas City Elementary School District
+53,Trinity,53-6,Mountain Valley Unified School District
+53,Trinity,53-8,Trinity Alps Unified School District
+53,Trinity,53-County of Trinity,Trinity County Department Of Transportation
+53,Trinity,53-H1,Trinity Alps Unified School District
+53,Trinity,53-H2,Southern Trinity Joint Unified School District
+53,Trinity,53-H4,Mountain Valley Unified School District
+53,Trinity,53-H5,Trinity Union High School District
+54,Tulare,54,Tulare County Office Of Education
+54,Tulare,54-1,Allensworth Elementary School District
+54,Tulare,54-10,Burton School District
+54,Tulare,54-103,Visalia Unified School District
+54,Tulare,54-105,Waukena Joint Union Elementary School District
+54,Tulare,54-111,Woodlake Unified School District
+54,Tulare,54-112,Woodville Elementary School District
+54,Tulare,54-116,Palo Verde Union Elementary School District
+54,Tulare,54-117,Sundale Union Elementary School District
+54,Tulare,54-118,Tulare County Office Of Education
+54,Tulare,54-119,Stone Corral Elementary School District
+54,Tulare,54-13,Citrus South Tule Elementary
+54,Tulare,54-15,Columbine Elementary School District
+54,Tulare,54-2,Alpaugh Unified School District
+54,Tulare,54-21,Dinuba Unified School District
+54,Tulare,54-23,Ducor Union Elementary School District
+54,Tulare,54-24,Earlimart Elementary School District
+54,Tulare,54-34,Exeter Unified School District
+54,Tulare,54-35,Farmersville Unified School District
+54,Tulare,54-4,Alta Vista Elementary School District
+54,Tulare,54-42,Hope School District
+54,Tulare,54-48,Kings River Union Elementary School District
+54,Tulare,54-53,Liberty Elementary School District
+54,Tulare,54-56,Lindsay Unified School District
+54,Tulare,54-62,Monson-Sultana Joint Union Elementary School District
+54,Tulare,54-65,Oak Valley Union Elementary School District
+54,Tulare,54-70,Cutler-Orosi Joint Unified School District
+54,Tulare,54-74,Pixley Union Elementary School District
+54,Tulare,54-75,Pleasant View Elementary School District
+54,Tulare,54-76,Porterville Unified School District
+54,Tulare,54-80,Richgrove Elementary School District
+54,Tulare,54-82,Rockford Elementary School District
+54,Tulare,54-84,Sequoia Union Elementary School District
+54,Tulare,54-85,Saucelito Elementary School District
+54,Tulare,54-86,Springville Union Elementary School District
+54,Tulare,54-89,Strathmore Union Elementary School District
+54,Tulare,54-9,Buena Vista Elementary School District
+54,Tulare,54-91,Sunnyside Elementary School District
+54,Tulare,54-94,Terra Bella Union Elementary School District
+54,Tulare,54-96,Three Rivers Union Elementary School District
+54,Tulare,54-97,Tipton Elementary School District
+54,Tulare,54-98,Traver Joint Elementary School District
+54,Tulare,54-99,Tulare City School District
+54,Tulare,54-County of Tulare,County Of Tulare
+54,Tulare,54-H1,Alpaugh Unified School District
+54,Tulare,54-H10,Strathmore Union High School District
+54,Tulare,54-H11,Tulare Joint Union High School District
+54,Tulare,54-H12,Visalia Unified School District
+54,Tulare,54-H13,Woodlake Unified School District
+54,Tulare,54-H14,Farmersville Unified School District
+54,Tulare,54-H16,Woodlake Unified School District
+54,Tulare,54-H3,Dinuba Unified School District
+54,Tulare,54-H4,Exeter Unified School District
+54,Tulare,54-H7,Lindsay Unified School District
+54,Tulare,54-H8,Cutler-Orosi Joint Unified School District
+54,Tulare,54-H9,Porterville Unified School District
+54,Tulare,54-TCRMA,Tulare County Resource Management Agency
+55,Tuolumne,55,Tuolumne County Office Of Education
+55,Tuolumne,55-13,Jamestown Elementary School District
+55,Tuolumne,55-21,Sonora Elementary School District
+55,Tuolumne,55-23,Soulsbyville Elementary School District
+55,Tuolumne,55-24,Summerville Elementary School District
+55,Tuolumne,55-26,Twain Harte Elementary School
+55,Tuolumne,55-3,Belleview Elementary School District
+55,Tuolumne,55-30,Tuolumne County Office Of Education
+55,Tuolumne,55-4,Big Oak Flat Groveland Unified School District
+55,Tuolumne,55-7,Columbia Union School District
+55,Tuolumne,55-9,Curtis Creek Elementary School District
+55,Tuolumne,55-H1,Sonora Union High School District
+55,Tuolumne,55-H2,Summerville Union High School District
+55,Tuolumne,55-H4,Big Oak Flat Groveland Unified School District
+56,Ventura,56,Ventura County Office Of Education
+56,Ventura,56-11,Fillmore Unified School District
+56,Ventura,56-12,Hueneme Elementary School District
+56,Ventura,56-16,Moorpark Unified School District
+56,Ventura,56-18,Mupu Elementary School District
+56,Ventura,56-20,Ocean View School District
+56,Ventura,56-21,Ojai Unified School District
+56,Ventura,56-22,Oxnard School District
+56,Ventura,56-24,Pleasant Valley School District
+56,Ventura,56-26,Rio Elementary School District
+56,Ventura,56-30,Santa Clara Elementary School District
+56,Ventura,56-31,Santa Paula Elementary School District
+56,Ventura,56-34,Simi Valley Unified School District
+56,Ventura,56-34/H6,Simi Valley Unified School District
+56,Ventura,56-35,Somis Union Elementary School District
+56,Ventura,56-4,Briggs School Dist.
+56,Ventura,56-40,Ventura Unified School District
+56,Ventura,56-42,Mesa Union Elementary School District
+56,Ventura,56-44,Ventura County Office Of Education
+56,Ventura,56-45,Oak Park Unified School District
+56,Ventura,56-9,Conejo Valley Unified School District
+56,Ventura,56-9/H9,Conejo Valley Unified School District
+56,Ventura,56-C1,Ventura County Community College District
+56,Ventura,56-CAPE,Cape Charter School
+56,Ventura,56-H1,Fillmore Unified School District
+56,Ventura,56-H10,Oak Park Unified School District
+56,Ventura,56-H2,Moorpark Unified School District
+56,Ventura,56-H4,Oxnard Union High School District
+56,Ventura,56-H5,Santa Paula Union High School District
+56,Ventura,56-H6,Simi Valley Unified School District
+56,Ventura,56-H7,Ventura Unified School District
+56,Ventura,56-H8,Ojai Unified School District
+56,Ventura,56-H9,Conejo Valley Unified School District
+56,Ventura,56-VCTC,Ventura County Transportation Commission
+57,Yolo,57,Yolo County Office Of Education
+57,Yolo,57-11,Davis Joint Unified School District
+57,Yolo,57-13,Esparto Unified School District
+57,Yolo,57-31,Washington Unified School District
+57,Yolo,57-36,Winters Jt. Unified School District
+57,Yolo,57-37,Woodland Joint Unified School District
+57,Yolo,57-CCCTEC,"California College, Career & Technical Education Center"
+57,Yolo,57-H3,Davis Joint Unified School District
+57,Yolo,57-H4,Esparto Unified School District
+57,Yolo,57-H5,Washington Unified School District
+57,Yolo,57-H6,Winters Joint Unified School District
+57,Yolo,57-H7,Woodland Joint Unified School District
+57,Yolo,57-SC,Superior Court Of California-Yolo County
+57,Yolo,57-Yolo County,Yolo County (animal Shelter)
+58,Yuba,58-17,Marysville Jt. Unified School District
+58,Yuba,58-21,Plumas Lake Elementary School District
+58,Yuba,58-27,Wheatland Elementary School District
+58,Yuba,58-3,Camptonville Union Elementary School District
+58,Yuba,58-32,Yuba County Office Of Education
+58,Yuba,58-CountyofYuba,County Of Yuba
+58,Yuba,58-H1,Marysville Jt. Unified School District
+58,Yuba,58-H2,Wheatland Union High School District
+6,Colusa,06,Colusa County Office Of Education
+6,Colusa,6-17,Maxwell Unified School District
+6,Colusa,6-18,Pierce Jt. Unified School District
+6,Colusa,6-22,Williams Unified School District
+6,Colusa,6-23,Colusa County Office Of Education
+6,Colusa,6-9,Colusa Unified School District
+6,Colusa,6-H2,Maxwell Unified School District
+6,Colusa,6-H3,Pierce Joint Unified School District
+6,Colusa,6-H5,Williams Unified School District
+6,Colusa,6-H6,Colusa Unified High School District
+7,Contra Costa,07,Contra Costa County Office Of Education
+7,Contra Costa,7-10,Byron Union Elementary School District
+7,Contra Costa,7-11,Canyon Elementary School District
+7,Contra Costa,7-15,Contra Costa County Office Of Education
+7,Contra Costa,7-22,Knightsen Elementary School District
+7,Contra Costa,7-23,Lafayette Elementary School District
+7,Contra Costa,7-26,Martinez Unified School District
+7,Contra Costa,7-27,Moraga Elementary School District
+7,Contra Costa,7-29,Mt. Diablo Unified School District
+7,Contra Costa,7-3,Antioch Unified School District
+7,Contra Costa,7-32,Oakley Union Elementary School District
+7,Contra Costa,7-33,Orinda Union Elementary School District
+7,Contra Costa,7-36,Pittsburg Unified School District
+7,Contra Costa,7-39,West Contra Costa Unified School District
+7,Contra Costa,7-42,San Ramon Valley Unified School District
+7,Contra Costa,7-46,John Swett Unified School District
+7,Contra Costa,7-50,Walnut Creek Elementary School District
+7,Contra Costa,7-8,Brentwood Union School District
+7,Contra Costa,7-H1,Martinez Unified School District
+7,Contra Costa,7-H11,Acalanes Union High School District
+7,Contra Costa,7-H3,Antioch Unified School District
+7,Contra Costa,7-H4,Liberty Union High School District
+7,Contra Costa,7-H5,Mt. Diablo Unified School District
+7,Contra Costa,7-H6,Pittsburg Unified School District
+7,Contra Costa,7-H7,West Contra Costa Unified School District
+7,Contra Costa,7-H8,San Ramon Valley Unified School District
+7,Contra Costa,7-H9,John Swett Unified School District
+8,Del Norte,8-5,Del Norte County Unified School District
+8,Del Norte,8-County of Del Norte,County Of Del Norte - Comm. Devel. Dept
+8,Del Norte,8-H1,Del Norte County Unified School District
+9,El Dorado,9-23,Indian Diggins Elementary School District
+9,El Dorado,9-26,Latrobe School District
+9,El Dorado,9-27,Lake Tahoe Unified School District
+9,El Dorado,9-33,Mother Lode Union School District
+9,El Dorado,9-38,Pioneer Union Elementary School District
+9,El Dorado,9-4,Buckeye Union School District
+9,El Dorado,9-41,Placerville Union Elementary School District
+9,El Dorado,9-45,Rescue Union School District
+9,El Dorado,9-5,Camino Union Elementary School
+9,El Dorado,9-58,Pollock Pines Elementary School District
+9,El Dorado,9-60,Silver Fork Elementary School District
+9,El Dorado,9-61,Gold Trail Union School District
+9,El Dorado,9-62,Gold Oak Union School District
+9,El Dorado,9-63,El Dorado County Office Of Education
+9,El Dorado,9-64,Black Oak Mine Unified School District
+9,El Dorado,9-El Dorado County,El Dorado County
+9,El Dorado,9-H1,El Dorado Union High School District
+9,El Dorado,9-H3,Lake Tahoe Unified School District
+9,El Dorado,9-H4,Black Oak Mine Unified School District
