@@ -2,6 +2,10 @@
 
 A powerful web scraping application designed to collect and analyze project data from the Division of the State Architect (DSA) website. Built with Streamlit and featuring MMPV Design branding.
 
+## Overview
+
+This tool streamlines the process of gathering project information from the DSA website, making it easy to collect and analyze data across multiple school districts in California.
+
 ## Features
 
 - **District Data Collection**: Comprehensive database of all California school districts
