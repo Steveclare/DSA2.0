@@ -90,4 +90,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Credits
 
-Developed by MMPV Design 
+Developed by MarketSuite AI for MMPV Design 
