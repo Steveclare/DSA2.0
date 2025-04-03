@@ -1,28 +1,42 @@
 # DSA Project Scraper
 
-A Streamlit application that scrapes project data from the DSA (Division of the State Architect) website and organizes it into an Excel workbook.
+A powerful web scraping application designed to collect and analyze project data from the Division of the State Architect (DSA) website. Built with Streamlit and featuring MMPV Design branding.
 
 ## Features
 
-- Scrapes project data from DSA website
-- Organizes data into three Excel worksheets:
-  1. Project List - Standard format with basic project information
-  2. Financial Details - Cost information and dates for bid estimation
-  3. Technical Requirements - Compliance and technical specifications
-- User-friendly interface with progress tracking
-- Configurable request delay to avoid rate limiting
-- Optional proxy support
-- Excel export with formatted columns and data
+- **District Data Collection**: Comprehensive database of all California school districts
+- **Project Information Scraping**: Collects detailed project information including:
+  - Project Links
+  - DSA Application IDs
+  - Project Names and Scopes
+  - Certification Types
+  - Project Types
+  - Final Project Costs
+  - Approval Dates
+  - Addresses and Cities
+
+- **User-Friendly Interface**:
+  - County and District selection dropdowns
+  - "Select All" functionality for districts
+  - Real-time progress tracking
+  - Configurable request delays
+  - Optional proxy support
 
 ## Installation
 
-1. Clone this repository:
+1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dsa-project-scraper.git
-cd dsa-project-scraper
+git clone https://github.com/Steveclare/DSA2.0.git
+cd DSA2.0
 ```
 
-2. Install required packages:
+2. Create and activate a conda environment:
+```bash
+conda create -n jim2 python=3.9
+conda activate jim2
+```
+
+3. Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
@@ -36,33 +50,31 @@ streamlit run app.py
 ```
 
 2. In the web interface:
-   - Enter your Client ID (default: 36-67)
-   - Adjust request delay if needed
-   - Configure proxy settings if required
-   - Click "Start Scraping"
+   - Select a county from the dropdown
+   - Choose specific districts or use "Select All"
+   - Configure request delay if needed
+   - Click "Start Scraping" to begin data collection
 
-3. Download the Excel workbook with the scraped data
+3. Results:
+   - Data is saved to CSV files with timestamp and district codes
+   - Download option available in the interface
+   - Real-time progress updates during scraping
 
-## Data Structure
+## Output Format
 
-### Project List Tab
-- Link
-- DSA AppId
-- PTN
-- Project Name
-- Project Scope
-- Project Cert Type
+The scraper generates CSV files with the following naming convention:
+```
+dsa_projects_[district_codes]_[timestamp].csv
+```
 
-### Financial Details Tab
-- Cost information
-- Important dates
-- Project classification
-- Location details
+Example: `dsa_projects_360_3672_3663_20250402_233047.csv`
 
-### Technical Requirements Tab
-- Compliance information
-- Safety requirements
-- Special project attributes
+## Error Handling
+
+- Comprehensive error logging
+- Automatic retries for failed requests
+- User-friendly error messages in the interface
+- Detailed logging to `app.log`
 
 ## Contributing
 
@@ -70,4 +82,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/) 
+[MIT](LICENSE)
+
+## Credits
+
+Developed by MMPV Design 
