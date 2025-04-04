@@ -411,27 +411,80 @@ def main():
     # Title
     st.markdown('<h1 class="title">DSA Project Scraper</h1>', unsafe_allow_html=True)
     
-    st.markdown("""
-    This application scrapes project data from the DSA website and exports it to a CSV file.
-    The output includes project details such as:
-    - Link
-    - DSA AppId
-    - Project Name
-    - Project Scope
-    - Project Cert Type
-    - Project Type
-    - Final Project Cost
-    - Approved Date
-    - Address
-    - City
-    """)
-    
     # Load district data
     district_df = load_district_data()
+    
+    if district_df is None:
+        st.error("Could not load district data. Please make sure the district data file exists.")
+        return
     
     # Initialize session state for selected districts
     if 'selected_districts' not in st.session_state:
         st.session_state.selected_districts = set()
+    
+    # Global search in main area
+    st.markdown("""
+    Search for any district across California. Try partial searches like 'nord', 'no', 'n', etc.
+    Results will update as you type.
+    """)
+    
+    main_search = st.text_input(
+        "🔍 Search Districts", 
+        placeholder="Type to search all districts (e.g., 'nord', 'no', 'n')",
+        help="Search across all districts by name or code. Results update as you type."
+    )
+    
+    # Show search results in main area if search is active
+    if main_search:
+        search_results = []
+        for _, row in district_df.iterrows():
+            if (main_search.lower() in row['DistrictName'].lower() or 
+                main_search.lower() in row['DistrictCode'].lower()):
+                search_results.append(row)
+        
+        if search_results:
+            st.write(f"Found {len(search_results)} matching districts:")
+            for result in search_results:
+                col1, col2 = st.columns([0.1, 0.9])
+                with col1:
+                    # Create a checkbox for the district
+                    is_selected = st.checkbox(
+                        "Select",
+                        value=(result['DistrictName'], result['DistrictCode']) in st.session_state.selected_districts,
+                        key=f"search_district_{result['DistrictCode']}",
+                        label_visibility="collapsed"
+                    )
+                    if is_selected:
+                        st.session_state.selected_districts.add((result['DistrictName'], result['DistrictCode']))
+                    else:
+                        st.session_state.selected_districts.discard((result['DistrictName'], result['DistrictCode']))
+                
+                with col2:
+                    st.info(
+                        f"**{result['DistrictName']}** ({result['DistrictCode']})\n"
+                        f"County: {result['CountyName']} - {result['CountyCode']}"
+                    )
+        else:
+            st.info("No districts found matching your search.")
+    
+    st.divider()
+    
+    # Clean, modern description layout
+    col1, col2 = st.columns([0.6, 0.4])
+    
+    with col1:
+        st.markdown("""
+        ### About DSA Project Scraper
+        
+        A powerful tool for collecting and analyzing project data from the Division of State Architect (DSA) website. 
+        Built for MMPV Design to streamline data collection across California school districts.
+        
+        #### Key Features
+        - 🏫 Comprehensive school district database
+        - 📊 Detailed project information
+        - 📁 Automated data collection
+        - 📥 Export to CSV
+        """)
     
     # Sidebar configuration
     with st.sidebar:
@@ -452,8 +505,14 @@ def main():
             # County selection
             selected_county_full = st.selectbox(
                 "Select County",
-                options=county_options
+                options=county_options,
+                help="Select a county to view its districts. Selecting 'All' will process all counties (this may take a long time)."
             )
+            
+            if selected_county_full == "All":
+                st.warning("⚠️ Warning: Selecting all counties will process a large amount of data and may take a long time. This could also trigger rate limits on the DSA website.")
+            
+            st.caption("Available Counties")
             
             # Extract county name and code
             if selected_county_full != "All":
@@ -464,11 +523,28 @@ def main():
                 county_districts = district_df[district_df['CountyName'] == selected_county]
                 district_options = sorted(county_districts['DistrictName'].unique().tolist())
                 
+                # Add search box for districts
+                search_query = st.text_input("Filter Districts", placeholder="Type to filter districts...")
+                if search_query:
+                    district_options = [d for d in district_options if search_query.lower() in d.lower()]
+                
+                # Pagination for districts
+                items_per_page = 25
+                total_pages = (len(district_options) + items_per_page - 1) // items_per_page
+                
+                if total_pages > 1:
+                    current_page = st.number_input("Page", min_value=1, max_value=total_pages, value=1)
+                    start_idx = (current_page - 1) * items_per_page
+                    end_idx = min(start_idx + items_per_page, len(district_options))
+                    current_districts = district_options[start_idx:end_idx]
+                else:
+                    current_districts = district_options
+                
                 # Select All checkbox
-                select_all = st.checkbox("Select All Districts in County")
+                select_all = st.checkbox("Select All Districts in County", help="Toggle all districts in the current page")
                 
                 # Individual district checkboxes
-                for district in district_options:
+                for district in current_districts:
                     district_code = county_districts[
                         county_districts['DistrictName'] == district
                     ]['DistrictCode'].iloc[0]
@@ -496,20 +572,6 @@ def main():
                             st.session_state.selected_districts.add((district, district_code))
                         else:
                             st.session_state.selected_districts.discard((district, district_code))
-            
-            # Display selected districts
-            if st.session_state.selected_districts:
-                st.subheader("Selected Districts")
-                for district, code in sorted(st.session_state.selected_districts):
-                    # Get county info for the district
-                    district_info = district_df[district_df['DistrictCode'] == code].iloc[0]
-                    county_name = district_info['CountyName']
-                    county_code = district_info['CountyCode']
-                    st.info(f"{district} ({code})\nCounty: {county_name} - {county_code}")
-                
-                if st.button("Clear All Selections"):
-                    st.session_state.selected_districts.clear()
-                    st.rerun()
         
         # Request delay
         st.subheader("Advanced Settings")
@@ -529,7 +591,18 @@ def main():
             proxy = st.text_input("Proxy URL", help="Format: http://username:password@host:port")
     
     # Main content area
-    if not st.session_state.selected_districts:
+    if st.session_state.selected_districts:
+        with st.expander(f"Review Selected Districts ({len(st.session_state.selected_districts)})", expanded=True):
+            for district, code in sorted(st.session_state.selected_districts):
+                district_info = district_df[district_df['DistrictCode'] == code].iloc[0]
+                county_name = district_info['CountyName']
+                county_code = district_info['CountyCode']
+                st.info(f"{district} ({code})\nCounty: {county_name} - {county_code}")
+            
+            if st.button("Clear All Selections", key="clear_main"):
+                st.session_state.selected_districts.clear()
+                st.rerun()
+    else:
         st.warning("Please select at least one district to begin scraping")
         return
     
@@ -555,11 +628,14 @@ def main():
             st.subheader("Scraping Progress")
             progress_bar = st.progress(0)
             status_text = st.empty()
+            error_expander = st.expander("View Errors", expanded=False)
+            error_container = error_expander.container()
         
         try:
             # Scrape projects
             all_projects = []
             all_detailed_projects = []
+            errors = []
             
             for i, client_id in enumerate(client_ids, 1):
                 status_text.text(f"Processing district {i} of {len(client_ids)}: {client_id}")
@@ -577,7 +653,11 @@ def main():
                     progress_bar.progress(i / len(client_ids))
                     
                 except Exception as e:
-                    st.error(f"Error processing district {client_id}: {str(e)}")
+                    error_msg = f"Error processing district {client_id}: {str(e)}"
+                    st.error(error_msg)
+                    errors.append(error_msg)
+                    with error_container:
+                        st.error(error_msg)
                     continue
             
             if not all_projects:
@@ -608,44 +688,37 @@ def main():
             district_codes = '_'.join(client_ids).replace('-', '')
             filename = f"dsa_projects_{district_codes}_{timestamp}.csv"
             
-            # Save to CSV
-            final_df.to_csv(filename, index=False)
-            
             # Results container
             results_container = st.container()
             with results_container:
                 st.subheader("Results")
                 
-                # Success message and download button
-                col1, col2 = st.columns([1, 2])
-                with col1:
-                    st.success(f"Successfully scraped {len(all_projects)} projects")
-                with col2:
-                    with open(filename, 'rb') as f:
-                        st.download_button(
-                            label="Download CSV File",
-                            data=f,
-                            file_name=filename,
-                            mime="text/csv",
-                            use_container_width=True
-                        )
+                # Data preview with pagination
+                st.caption(f"Showing first 20 rows of {len(final_df)} total projects. Download CSV for full data.")
+                st.dataframe(final_df.head(20))
                 
-                # Display data preview
-                st.subheader("Data Preview")
-                st.dataframe(final_df, use_container_width=True)
+                # Download button
+                csv = final_df.to_csv(index=False)
+                st.download_button(
+                    "Download Full Results",
+                    csv,
+                    filename,
+                    "text/csv",
+                    help="Download the complete dataset as a CSV file"
+                )
                 
-                # Display statistics
-                st.subheader("Statistics")
-                stats = scraper.get_stats()
-                stat_col1, stat_col2, stat_col3, stat_col4 = st.columns(4)
-                with stat_col1:
-                    st.metric("Total Requests", stats['total_requests'])
-                with stat_col2:
-                    st.metric("Successful Requests", stats['successful_requests'])
-                with stat_col3:
-                    st.metric("Failed Requests", stats['failed_requests'])
-                with stat_col4:
-                    st.metric("Time Elapsed", stats['elapsed_time'])
+                # Show detailed statistics
+                with st.expander("View Detailed Statistics", expanded=False):
+                    stats = scraper.get_stats()
+                    col1, col2, col3, col4 = st.columns(4)
+                    with col1:
+                        st.metric("Total Requests", stats['total_requests'], help="Total number of HTTP requests made")
+                    with col2:
+                        st.metric("Successful Requests", stats['successful_requests'], help="Number of successful HTTP requests")
+                    with col3:
+                        st.metric("Failed Requests", stats['failed_requests'], help="Number of failed HTTP requests")
+                    with col4:
+                        st.metric("Time Elapsed", stats['elapsed_time'], help="Total time taken for scraping")
             
         except Exception as e:
             st.error(f"An error occurred: {str(e)}")
